@@ -1,0 +1,1000 @@
+Company,Industry,Stage,Country,Market Condition,Remote Policy,Company Size,Company Age,Location HQ(Encoded),Funds Raised ($M),Revenue ($M),Burn Rate,Industry Growth (%),Year,Month,Actual Layoffs
+Arch Oncology,Consumer,Series A,Pakistan,Recovery,Remote,56,2,106,10.5,11.92,10,-0.003,2021,4,10
+DigitalVentures,Hardware,Series E,Russia,Recession,Hybrid,838,8,149,300,211.25,7,0.012,2023,6,75
+SmartSolutions,Travel,Subsidiary,Kenya,Stable,Hybrid,4228,29,152,1327.4,1740.29,9,-0.023,2023,11,849
+DataGroup,Energy,Subsidiary,Thailand,Recession,Hybrid,1786,24,12,722.1,634.29,14,0.045,2023,3,653
+PerkSpot,Education,Post-IPO,Ghana,Recovery,Remote,6645,47,1,2167.8,2214.02,11,0.015,2024,5,1635
+Kenko Health,Data,Seed,Hungary,Downturn,Hybrid,41,1,34,3.1,16.02,14,-0.009,2022,10,5
+AIVentures,Fitness,Private Equity,South Africa,Stable,Hybrid,7949,31,39,1031.8,2055.86,10,0.051,2023,10,1173
+TechInc,AI,Series D,Vietnam,Recession,Hybrid,445,5,88,112.7,64.32,12,-0.002,2023,7,84
+CloudLabs,Healthcare,Series I,United Arab Emirates,Stable,Office,2072,15,63,1421.9,309.69,14,0.028,2022,2,749
+ApexSolutions,Consumer,Series A,Philippines,Downturn,Office,61,2,137,8.2,27.92,13,0.058,2022,5,9
+ExtraHop,Media,Series F,Spain,Recession,Hybrid,1295,14,13,517.1,382.32,12,-0.029,2020,7,389
+DataTechnologies,Finance,Series G,Kenya,Recession,Office,914,11,152,656.8,254.43,15,0.029,2020,6,173
+TechLabs,Travel,Series E,Indonesia,Recovery,Office,927,9,101,356.9,385.02,12,0.034,2021,6,82
+Meta,Aerospace,Series I,Sweden,Recovery,Office,2497,17,80,1187.8,597.07,18,0,2024,12,803
+AIVentures,Security,Series B,Malaysia,Stable,Hybrid,207,6,113,34,49.75,10,0.035,2020,2,49
+QuantumLabs,Sales,Series G,Denmark,Recession,Hybrid,1593,12,53,686.9,304.44,9,-0.073,2020,9,218
+Candy Digital,Support,Series J,Turkey,Stable,Office,2927,15,99,1255.9,599.29,20,0.01,2024,2,693
+Flux Systems,Construction,Series F,United States,Downturn,Office,820,11,183,325.9,283.86,17,0.009,2022,9,131
+The Modist,Retail,Acquired,New Zealand,Stable,Hybrid,3091,18,231,598.3,780.93,15,0.051,2022,2,669
+ChargePoint,Food,Series C,Czech Republic,Recession,Office,226,4,178,75.1,62.27,15,-0.028,2023,6,52
+Le Tote,Construction,Series D,New Zealand,Recession,Hybrid,546,8,231,131.8,142.53,16,0.043,2020,7,134
+Zeitgold,Recruiting,Series D,Poland,Recovery,Hybrid,647,8,228,181,150.52,11,0.025,2021,1,105
+AIInnovations,HR,Acquired,Ukraine,Recession,Remote,3862,20,114,881.1,1005.8,10,-0.049,2023,4,624
+TechDynamics,Healthcare,Series B,Canada,Recovery,Hybrid,264,6,218,25.5,58.65,11,0.02,2024,8,96
+Compass,Fitness,Series J,Canada,Downturn,Office,2189,22,110,1566.9,974.36,8,0.07,2022,10,374
+VTEX,Crypto,Series B,Lithuania,Recession,Office,152,3,226,29.2,65.3,19,-0.076,2023,6,23
+Oyster,Security,Series C,Turkey,Stable,Office,276,4,99,62.4,46.26,20,0.046,2022,1,50
+Smallcase,Legal,Post-IPO,Russia,Recovery,Remote,7861,18,149,2972.8,2118.53,12,0.036,2024,12,2862
+ApexInnovations,Unknown,Acquired,Mexico,Growth,Remote,2286,11,140,291.4,696.28,12,-0.003,2021,11,324
+QuantumGroup,Media,Post-IPO,France,Growth,Office,7858,44,171,3039.3,1925.49,14,0.043,2021,9,1373
+ApexInc,Healthcare,Unknown,Finland,Recession,Office,578,10,70,66.3,122.55,14,0.024,2020,3,184
+CloudTechnologies,Transportation,Series G,Nigeria,Recession,Hybrid,1699,9,115,732.3,244.12,14,0.067,2023,5,329
+Workfront,Security,Seed,Indonesia,Stable,Office,18,3,101,2.7,8.33,13,0.021,2020,2,5
+Cashfree Payments,Finance,Seed,Austria,Downturn,Hybrid,38,1,225,4,7.77,14,-0.046,2022,10,9
+DigitalGroup,HR,Series A,Cayman Islands,Recession,Office,88,3,40,10.5,21.79,15,0.066,2020,4,18
+Liftoff,Food,Acquired,Poland,Downturn,Remote,3652,10,228,630.2,430.32,21,0.057,2022,4,337
+Sales Boomerang,Transportation,Series C,Austria,Stable,Hybrid,311,4,122,70.9,129.86,11,0.024,2023,12,59
+GlobalTechnologies,Sales,Series J,Israel,Recession,Remote,2701,21,215,1729.6,920.01,12,-0.039,2023,9,689
+SuperRare,Food,Series C,Poland,Downturn,Hybrid,376,6,234,57.2,146.33,12,0.017,2022,5,100
+TechGroup,Healthcare,Unknown,Sweden,Recession,Hybrid,912,8,211,34.5,296.39,10,0.048,2023,6,180
+QuantumVentures,Construction,Series G,Bahrain,Recovery,Office,1546,17,135,648.1,393.45,17,0.017,2021,8,293
+AIInnovations,Unknown,Series B,Hungary,Recovery,Hybrid,146,4,34,35.9,19.41,18,0.014,2024,8,45
+AIGroup,Travel,Subsidiary,Ukraine,Stable,Hybrid,6514,46,114,580.8,1541.86,10,0.019,2024,1,1177
+SmartGroup,Logistics,Acquired,Austria,Recession,Office,2516,29,122,501.7,694.49,12,0.002,2020,3,470
+TechTechnologies,Data,Post-IPO,Australia,Growth,Hybrid,11304,47,212,2754.9,4510.66,10,-0.008,2021,11,2241
+GlobalSolutions,Energy,Unknown,Chile,Recovery,Remote,965,6,197,66.1,219.85,19,0.063,2021,5,165
+Metigy,Consumer,Seed,Canada,Recovery,Hybrid,32,1,230,2.2,10.67,18,0.011,2021,3,5
+Jellysmack,Unknown,Series F,Egypt,Stable,Hybrid,1251,9,37,440.2,281.18,12,0.006,2022,2,144
+DigitalTechnologies,Legal,Series D,Hong Kong,Recovery,Office,395,7,92,172.4,112.93,15,0.031,2024,3,115
+QuantumDynamics,Security,Seed,Colombia,Recession,Office,37,2,24,3.1,7.05,19,0.004,2023,3,7
+QuantumInc,Consumer,Series H,Colombia,Recovery,Remote,1229,19,24,873.3,322.94,19,0.053,2024,4,155
+TechInc,AI,Series G,Poland,Recovery,Hybrid,1667,9,228,739.6,547.15,14,-0.063,2024,10,562
+DigitalInnovations,Support,Private Equity,Mexico,Recession,Hybrid,5352,20,82,1546.3,2018.76,11,0.067,2020,11,562
+TechVentures,Product,Series I,Czech Republic,Downturn,Hybrid,2075,14,31,1559.9,706.19,8,0.008,2022,9,321
+Tackle,AI,Series B,Portugal,Stable,Hybrid,183,3,51,28,71.18,12,-0.098,2022,3,31
+ApexTechnologies,Energy,Series I,Brazil,Downturn,Hybrid,1578,21,177,1482.1,409.41,16,-0.02,2022,8,136
+TechInnovations,Marketing,Post-IPO,South Africa,Recovery,Hybrid,4275,11,39,1986.5,1667.48,20,-0.045,2021,8,723
+NexusInnovations,Media,Series C,Lithuania,Recession,Remote,327,5,226,66.3,100.58,10,-0.003,2023,6,45
+CloudSystems,Crypto,Post-IPO,China,Recession,Remote,8585,48,16,2490.1,1254.28,11,-0.075,2023,1,915
+AISolutions,Healthcare,Series C,Russia,Recovery,Remote,231,8,149,83.6,56.47,15,0.064,2021,3,70
+TwinStrand,Travel,Series J,Ghana,Stable,Office,2722,21,1,1972.6,1001.75,9,-0.046,2022,2,633
+Vezeeta,Manufacturing,Seed,Pakistan,Recovery,Office,46,3,116,2.7,6.13,12,-0.043,2024,3,10
+GlobalTechnologies,Retail,Series A,Lithuania,Recovery,Remote,52,2,226,6.7,13.76,15,-0.066,2021,6,10
+AIVentures,Product,Subsidiary,Brazil,Recession,Office,6715,41,17,500.4,2157.22,15,-0.048,2023,8,737
+SmartDynamics,Aerospace,Subsidiary,Nigeria,Stable,Hybrid,3783,15,96,1000.9,1021.85,14,-0.059,2024,1,1149
+DigitalInnovations,Media,Private Equity,Malaysia,Recovery,Hybrid,8110,19,113,1083.2,1700.57,13,-0.03,2024,4,1758
+Sisense,Transportation,Series I,Ireland,Recession,Office,2000,15,54,1258.3,544.15,9,-0.009,2023,9,705
+CloudSolutions,Retail,Series J,Lithuania,Stable,Hybrid,3015,23,226,1297.3,1081.74,10,0.008,2020,1,312
+DataSolutions,Healthcare,Series D,Germany,Recovery,Remote,561,11,109,163.5,149.21,15,-0.019,2024,9,147
+DigitalInc,Real Estate,Series J,Ireland,Recovery,Hybrid,2469,23,64,2013.6,535.97,23,-0.087,2024,5,618
+PharmEasy,Construction,Series G,Myanmar,Recession,Remote,1154,17,236,784.8,172.01,18,0.017,2023,9,393
+ApexInc,Finance,Subsidiary,Hong Kong,Stable,Hybrid,6388,45,92,775.6,1919.37,15,-0.059,2022,1,867
+CloudVentures,Infrastructure,Private Equity,Senegal,Recession,Office,3216,32,57,846.7,1431.33,13,-0.045,2023,1,544
+Zinier,Sales,Series J,Romania,Recovery,Hybrid,2734,14,50,1653.3,897.73,13,-0.001,2024,12,345
+SmartInc,Manufacturing,Post-IPO,Spain,Recession,Remote,5200,40,132,2766.3,609.52,20,-0.01,2020,7,549
+ApexTechnologies,Energy,Series F,Portugal,Stable,Hybrid,856,13,123,458.4,319.09,20,0.006,2022,1,112
+Sojern,Travel,Unknown,France,Stable,Office,1664,16,219,58.7,752.5,12,0.001,2022,3,460
+SmartDynamics,Marketing,Post-IPO,Bulgaria,Stable,Office,10173,26,206,3847.9,3130.24,14,-0.001,2020,1,2716
+Euler Motors,Hardware,Series B,Portugal,Recovery,Hybrid,242,6,123,17.8,68.74,14,0.016,2024,12,47
+QuantumGroup,HR,Acquired,Sweden,Growth,Hybrid,1707,21,168,263.9,613.93,14,0.016,2021,12,318
+ApexInc,Marketing,Series H,Cayman Islands,Downturn,Remote,1927,18,40,873.9,481.18,13,0.008,2022,11,214
+Gro Intelligence,Data,Series D,Austria,Recovery,Hybrid,680,5,122,121.3,216.01,9,0.003,2021,1,175
+QuantumLabs,Crypto,Series J,Hong Kong,Recovery,Remote,2178,21,92,1510.8,414.86,15,-0.025,2024,8,293
+SmartInc,Consumer,Series C,Uruguay,Recession,Hybrid,279,8,147,86.2,45.91,13,-0.035,2023,1,28
+AISystems,Healthcare,Series C,Malaysia,Recession,Office,481,4,113,97.1,210.72,15,0.02,2020,12,109
+CloudTechnologies,Real Estate,Series I,France,Recovery,Remote,1987,12,171,1131.3,558.6,14,-0.099,2024,8,228
+Dash,Healthcare,Series A,Hong Kong,Recovery,Office,73,2,92,9.2,30.96,18,0.033,2024,8,11
+AIDynamics,Fitness,Series H,France,Stable,Office,2129,14,219,839.2,417.41,10,0.049,2023,12,622
+TechDynamics,Construction,Series G,Ghana,Recession,Office,1154,16,1,822.6,251.71,8,0.004,2020,8,220
+Jane,Fitness,Post-IPO,Pakistan,Stable,Office,9145,12,116,3510.1,2975.49,22,-0.053,2020,2,1124
+TechTechnologies,Support,Series F,Nigeria,Recovery,Hybrid,1225,10,96,353.2,313.64,15,-0.007,2024,4,265
+Presto,Construction,Series G,Japan,Recovery,Office,1388,12,217,792.3,305.78,21,-0.006,2024,5,105
+ApexInnovations,Data,Series E,Myanmar,Recovery,Remote,722,13,236,323.1,136.73,9,0.028,2021,6,179
+Kapten / Free Now,Food,Series H,Malaysia,Stable,Office,1746,14,113,1116.4,590.08,13,-0.018,2022,2,293
+Sales Boomerang,HR,Series B,Finland,Recession,Office,185,6,90,31.6,58.4,16,-0.062,2020,10,68
+GlobalSolutions,Unknown,Series C,Saudi Arabia,Downturn,Hybrid,236,9,186,51.2,44.06,13,0.046,2022,8,51
+OPay,Data,Post-IPO,Belgium,Recovery,Hybrid,7070,32,32,1787.4,902.28,22,0.038,2024,8,1425
+QuantumCorp,Product,Post-IPO,Australia,Stable,Office,5206,29,138,3419.2,1679.46,9,-0.048,2023,10,486
+CloudSystems,Retail,Series E,Luxembourg,Stable,Hybrid,998,13,130,266.4,390.34,11,0.01,2020,1,221
+GlobalGroup,Aerospace,Series I,Argentina,Recession,Hybrid,2408,15,35,1669.2,829.93,15,-0.008,2020,4,487
+SmartInc,Security,Series A,Seychelles,Recession,Hybrid,61,3,163,11.1,10.66,14,-0.066,2020,8,13
+CTO.ai,Real Estate,Series A,United Kingdom,Recovery,Hybrid,112,5,136,9,51.24,10,-0.064,2024,8,16
+Springlane,Hardware,Series F,Ghana,Recession,Office,1172,12,1,452,301.3,18,0.003,2023,2,454
+Drop,Construction,Series H,Malaysia,Recovery,Hybrid,1817,14,113,1058.2,703.52,18,-0.009,2024,7,381
+Roofstock,Healthcare,Series H,United Kingdom,Growth,Office,1088,17,189,1182.7,250.37,11,0.005,2021,10,103
+NexusGroup,Retail,Subsidiary,Ukraine,Recession,Remote,1298,43,114,469.4,176.77,15,0.05,2023,6,125
+AIInnovations,Education,Series C,Chile,Recovery,Office,260,6,197,63.6,86.49,12,-0.001,2024,6,53
+DataVentures,Construction,Post-IPO,Estonia,Recovery,Office,8350,13,213,3755,1473.86,18,-0.028,2024,6,1803
+DigitalLabs,Healthcare,Series J,Russia,Downturn,Remote,2324,20,149,1609.5,906.98,18,0.087,2022,8,683
+Banxa,Unknown,Post-IPO,Cayman Islands,Downturn,Office,7984,30,40,3657.9,2248.87,11,0.007,2022,12,884
+GlobalInc,Product,Subsidiary,Egypt,Downturn,Hybrid,4997,7,37,884.5,1496.74,7,0.029,2022,4,1326
+Tuft & Needle,Legal,Series G,Argentina,Growth,Remote,1403,14,35,548.5,441.33,9,-0.077,2021,10,485
+DataTechnologies,Security,Private Equity,South Africa,Stable,Remote,6384,15,39,1600.1,2492.15,13,-0.06,2024,2,989
+GlobalInc,Crypto,Series A,Hong Kong,Recession,Hybrid,97,2,92,11.9,17.45,11,-0.092,2023,1,15
+Havenly,Food,Series C,United Arab Emirates,Recovery,Hybrid,363,9,63,65.5,145.86,11,0.067,2024,5,70
+GlobalCorp,Healthcare,Series E,Indonesia,Recovery,Office,783,13,101,213.5,203.16,7,0.045,2021,7,227
+SmartVentures,Crypto,Series H,Netherlands,Downturn,Office,1853,11,222,1273,408.54,7,-0.04,2022,12,366
+SmartCorp,Media,Private Equity,Romania,Recovery,Remote,5715,20,50,822.9,2170.98,13,0.004,2024,7,1731
+Zscaler,Construction,Series D,Bulgaria,Downturn,Office,348,9,206,153.1,84.56,10,-0.01,2022,9,117
+SmartDynamics,Support,Series A,United Arab Emirates,Recession,Hybrid,99,3,63,9.9,11.21,8,-0.034,2020,3,33
+CloudSystems,Logistics,Seed,Colombia,Recovery,Hybrid,30,2,24,1.6,7.89,10,-0.029,2024,9,1
+Grammarly,Hardware,Series D,Singapore,Recovery,Remote,587,9,205,177.5,187.02,11,0.016,2024,9,220
+ApexVentures,Other,Series C,Cayman Islands,Recovery,Hybrid,344,5,40,75.5,98.99,19,0.02,2024,9,80
+AISolutions,Construction,Series D,Czech Republic,Recovery,Remote,661,7,178,156.8,215.04,13,-0.015,2024,4,161
+ApexCorp,Legal,Unknown,Myanmar,Recession,Hybrid,954,9,236,39.7,363.14,19,0.002,2020,10,220
+CloudVentures,Logistics,Series G,New Zealand,Recovery,Office,1585,10,231,467.7,407.38,11,-0.019,2024,5,525
+Doubtnut,Education,Series G,Norway,Stable,Hybrid,940,11,168,533.7,222.86,9,0.031,2023,12,180
+SmartSolutions,Data,Acquired,Kenya,Recession,Remote,4570,17,152,311.5,1240.76,13,0.032,2020,7,687
+Analog Devices,Finance,Series I,Colombia,Downturn,Hybrid,2277,20,24,1435.7,698.29,13,0.001,2022,7,320
+ApexInnovations,Logistics,Series C,Turkey,Recovery,Hybrid,199,7,99,87.1,53.19,8,-0.068,2021,6,36
+TechSystems,Infrastructure,Private Equity,Turkey,Recession,Office,5311,36,99,1092.7,1400.06,14,0.017,2020,5,569
+SmartVentures,Media,Post-IPO,Estonia,Recession,Office,14383,24,213,3091.3,2056.5,21,0.022,2020,12,1375
+AIInnovations,Retail,Series E,United States,Recession,Remote,949,13,170,278.6,164.56,6,0.007,2023,5,141
+DataLabs,HR,Series C,Canada,Recovery,Hybrid,346,4,218,77.7,99.53,15,-0.09,2021,6,36
+CipherTrace,Healthcare,Series I,Israel,Recovery,Remote,2265,11,103,1249.8,541.08,13,0.085,2021,3,307
+TechVentures,Aerospace,Series B,Bahrain,Downturn,Hybrid,184,6,135,29.4,42.67,14,0.017,2022,11,50
+Tidal,Unknown,Private Equity,Hong Kong,Recovery,Hybrid,2065,19,92,608,821.63,14,0.051,2024,7,519
+DigitalGroup,Data,Series E,Bahrain,Recovery,Hybrid,716,12,135,357.8,131.34,8,0.033,2024,8,189
+QuantumLabs,Product,Series F,Australia,Recovery,Remote,1349,10,29,484.4,372.98,12,-0.019,2024,12,198
+FreshBooks,Data,Series F,Philippines,Recession,Office,893,12,137,514.3,170.15,15,0.008,2023,1,202
+QuantumSystems,Travel,Series G,Senegal,Recession,Hybrid,1603,12,57,763,686.85,7,0.043,2020,4,320
+AIDynamics,Construction,Series E,Cayman Islands,Recession,Office,931,13,40,214.1,231.39,10,-0.022,2020,4,241
+QuantumTechnologies,Consumer,Series A,Bahrain,Downturn,Office,136,2,135,10.2,26.6,19,0.004,2022,8,38
+Mythical Games,Data,Series F,Portugal,Recovery,Remote,1124,12,123,399.7,395.79,14,0.008,2021,8,251
+SmartDynamics,Data,Series E,Italy,Recession,Hybrid,903,12,142,304.4,239.28,9,-0.034,2020,8,179
+NexusSolutions,Aerospace,Private Equity,Japan,Recovery,Hybrid,5476,34,217,1156.6,1044.08,22,0.01,2024,6,970
+AIGroup,Marketing,Series B,Uruguay,Recession,Remote,159,5,147,22.4,53.48,12,0.054,2023,9,28
+SmartLabs,Travel,Seed,Ukraine,Stable,Hybrid,21,2,114,3.9,6.06,17,-0.043,2023,12,4
+DataSystems,Recruiting,Series E,Poland,Recovery,Hybrid,411,11,228,261.5,102.48,12,0.053,2024,8,126
+SmartInnovations,Manufacturing,Unknown,China,Recession,Office,726,13,16,88.8,315.02,10,-0.012,2023,1,95
+AISystems,AI,Series B,Australia,Recession,Office,249,7,29,26.4,74.15,10,-0.039,2023,2,82
+TechSystems,Marketing,Series H,Denmark,Stable,Hybrid,2070,10,53,1197.4,315.04,11,-0.001,2023,10,327
+QuantumGroup,Construction,Series D,Uruguay,Recovery,Remote,424,9,147,126.8,91.59,15,-0.013,2024,7,56
+Indigo,Legal,Acquired,Cayman Islands,Recession,Office,2267,24,40,477.9,569.34,12,-0.03,2023,4,696
+Fareportal,Hardware,Series E,Brazil,Recovery,Remote,708,10,198,282.8,187.78,10,0.027,2024,5,171
+TechSolutions,Security,Series F,Bulgaria,Recession,Office,968,9,206,335.3,229.24,13,0.043,2020,3,345
+Berkeley Lights,Transportation,Series A,Kenya,Recession,Office,116,5,152,11.2,32.19,16,0.054,2023,7,12
+DataTechnologies,Education,Series I,Russia,Recession,Remote,1885,12,149,1400.9,862.32,15,-0.042,2023,1,554
+TechDynamics,Aerospace,Series E,Japan,Recession,Hybrid,1002,13,217,317.8,158.58,12,0.011,2023,1,214
+CloudTechnologies,Manufacturing,Series F,Netherlands,Growth,Office,668,7,5,329.5,197.46,10,0.005,2021,12,120
+Docly,Crypto,Series I,Israel,Recession,Office,2198,15,85,1021.8,634.49,15,-0.043,2020,6,223
+GlobalTechnologies,Recruiting,Series G,Philippines,Recession,Hybrid,1471,10,137,854.9,377.64,7,-0.01,2020,9,200
+NexusDynamics,Marketing,Series D,Colombia,Growth,Hybrid,602,8,24,157.4,200.89,6,0.008,2021,10,94
+QuantumVentures,Fitness,Seed,Saudi Arabia,Recession,Hybrid,13,1,186,1.4,2.78,14,-0.023,2023,2,1
+CloudSystems,Unknown,Series B,New Zealand,Downturn,Hybrid,221,5,231,31.5,84.84,19,0.025,2022,5,54
+AICorp,Security,Series E,Russia,Recovery,Hybrid,614,7,149,326,170.07,8,-0.056,2021,2,161
+NexusDynamics,Manufacturing,Series G,Malaysia,Recession,Hybrid,1139,17,113,898.3,410.79,6,0,2023,9,113
+DataVentures,Construction,Subsidiary,Turkey,Recovery,Office,5622,46,99,689.4,1425.58,14,0.035,2021,6,1480
+DataDynamics,Hardware,Series J,Sweden,Recession,Hybrid,2458,14,211,1508.2,826.91,13,-0.081,2023,8,425
+Crehana,Sales,Series B,Chile,Downturn,Office,133,5,197,23.8,58.07,14,-0.012,2022,10,18
+GlobalSolutions,Sales,Series C,Seychelles,Recession,Remote,410,8,224,76.6,114.45,9,0.023,2020,5,90
+DataSystems,Food,Unknown,South Africa,Recession,Remote,1533,16,39,8,574.62,13,0.024,2023,5,211
+QuantumGroup,Finance,Series D,Colombia,Recession,Remote,298,6,24,102,48.63,15,-0.013,2023,6,44
+DigitalSystems,Construction,Series E,Ukraine,Recovery,Hybrid,905,12,114,257.5,110.77,10,-0.09,2024,9,194
+Perx Health,Construction,Series C,Denmark,Recession,Hybrid,333,9,53,81.2,113.04,10,0.02,2023,3,65
+AITechnologies,Real Estate,Subsidiary,United States,Stable,Hybrid,5323,13,198,969.5,2035.09,18,-0.044,2024,2,818
+GlobalLabs,Energy,Series J,Hungary,Recovery,Remote,2533,13,34,1860.4,543.47,14,0.028,2021,1,561
+AIInnovations,Real Estate,Series F,Germany,Recession,Office,846,11,86,376.1,125.51,15,0.003,2020,7,116
+GlobalSolutions,Construction,Series F,Saudi Arabia,Recession,Remote,917,12,186,326.2,349.24,23,-0.014,2023,7,190
+NexusInnovations,Fitness,Series E,Russia,Stable,Hybrid,853,13,149,214.4,217.97,12,0.018,2023,12,218
+The Athletic,Construction,Series E,Cayman Islands,Downturn,Hybrid,1048,12,40,290.8,400.46,13,0.053,2022,5,336
+ApexInnovations,Media,Series F,Senegal,Downturn,Hybrid,1050,15,57,453.3,213.92,16,0.032,2022,7,247
+iFood,Fitness,Post-IPO,Egypt,Recession,Office,11017,37,37,4046.5,4088.17,15,-0.059,2020,7,2959
+TechTechnologies,Fitness,Series C,Pakistan,Recovery,Remote,355,8,116,93.5,66.27,10,0.004,2021,3,48
+Workable,Product,Subsidiary,Thailand,Recovery,Office,3726,42,12,1253.4,809.7,13,-0.045,2024,7,856
+Datagen,Crypto,Acquired,South Africa,Recession,Office,516,13,39,433.7,126.94,15,-0.012,2023,8,63
+Mainvest,Healthcare,Subsidiary,Finland,Stable,Office,5588,38,70,1036.3,2170.26,13,0.045,2020,1,666
+GlobalSystems,Finance,Series D,Poland,Downturn,Hybrid,574,11,228,142.3,119.51,13,-0.052,2022,7,76
+ApexVentures,Consumer,Series D,Kenya,Recovery,Hybrid,500,9,152,171.8,192.9,12,0.019,2024,9,96
+Simple Feast,Unknown,Series G,Peru,Recession,Hybrid,1341,13,121,926.4,333.2,9,0.026,2023,6,412
+Solidigm,Logistics,Subsidiary,Philippines,Stable,Office,4509,45,137,1144,1205.08,12,0.046,2022,1,1138
+ApexInnovations,Manufacturing,Series C,Canada,Recession,Office,378,5,169,79.2,124.42,13,-0.071,2020,6,46
+AIInnovations,Support,Series A,Denmark,Recovery,Hybrid,98,2,53,9.7,21.5,8,0.005,2021,4,14
+AISystems,Legal,Series J,Norway,Growth,Office,2000,20,77,1897.6,267.8,17,-0.035,2021,9,517
+Synctera,Hardware,Acquired,Hungary,Downturn,Hybrid,1948,21,34,344.6,477.26,19,0.012,2022,5,420
+AISystems,Marketing,Series F,Uruguay,Recession,Office,1442,14,147,538.9,475.49,11,0.045,2020,7,287
+AITechnologies,AI,Private Equity,Senegal,Stable,Hybrid,7922,31,57,500.1,2024.41,19,-0.025,2023,10,2167
+DigitalInc,Food,Series G,Cayman Islands,Recession,Remote,1356,13,40,576.6,258.58,16,0.018,2020,5,377
+SmartSolutions,Transportation,Series I,Portugal,Stable,Hybrid,2254,11,51,1437.5,398.89,8,0.034,2022,1,689
+DigitalVentures,Media,Series I,Israel,Growth,Hybrid,1892,15,103,1352.2,365.25,9,-0.037,2021,12,617
+NexusInc,Food,Unknown,Bahrain,Recovery,Office,431,16,135,43.2,115.97,13,0.018,2021,2,131
+QuantumCorp,Retail,Seed,Indonesia,Recovery,Hybrid,42,1,101,3.2,12.8,11,-0.037,2024,9,9
+DigitalLabs,Product,Series B,Myanmar,Recovery,Office,195,6,236,32.4,47.96,12,-0.064,2021,2,33
+Butler Hospitality,Marketing,Series C,Russia,Recession,Office,247,8,149,77.2,58.55,18,-0.017,2023,4,34
+GlobalSolutions,Recruiting,Series B,Romania,Stable,Hybrid,183,7,33,16.6,50.6,12,-0.03,2022,1,55
+Coupa,Healthcare,Series I,Peru,Stable,Hybrid,1924,12,121,1299,678.77,11,0.035,2023,11,270
+DataVentures,Food,Post-IPO,Greece,Growth,Remote,5671,30,7,2555.3,2262.66,9,-0.036,2021,12,872
+Springbig,Fitness,Series I,Hong Kong,Recovery,Office,2710,10,92,1208.2,402.75,14,0.003,2024,3,415
+Transfix,Education,Series E,Seychelles,Downturn,Hybrid,444,8,15,304.7,68.86,12,-0.036,2022,9,42
+Ayoconnect,Aerospace,Series C,Japan,Recession,Hybrid,411,9,217,78.9,104.37,13,0.027,2023,4,42
+SmartSolutions,Fitness,Seed,Lithuania,Downturn,Hybrid,20,2,226,1.5,4.5,19,-0.036,2022,7,2
+SmartGroup,Healthcare,Series A,Seychelles,Growth,Remote,92,5,163,8.7,41.61,17,0.063,2021,9,9
+AISolutions,Aerospace,Series I,Israel,Recession,Hybrid,2100,16,103,1782.7,275.47,17,0.069,2020,11,469
+AICorp,Data,Acquired,Ukraine,Stable,Office,3671,12,114,776.8,920.03,9,0.051,2022,3,575
+NIO,AI,Series D,Senegal,Recession,Hybrid,390,8,57,153.6,100.38,9,0.027,2023,6,83
+SmartCorp,Consumer,Series J,Israel,Downturn,Hybrid,2643,12,85,1238.2,434.84,9,0.045,2022,7,712
+NexusTechnologies,AI,Series G,New Zealand,Growth,Remote,1657,13,231,630.8,511.37,14,-0.024,2021,12,358
+Rubicon Technologies,Manufacturing,Seed,India,Growth,Office,29,3,157,2.8,9.58,12,-0.001,2021,11,4
+NexusGroup,Media,Series A,Kenya,Recovery,Office,82,5,152,8.4,30.3,21,-0.066,2024,6,17
+TechLabs,Crypto,Unknown,Myanmar,Growth,Hybrid,1222,19,236,43.3,273.87,17,-0.107,2021,12,189
+Zapp,HR,Series J,Bahrain,Recession,Office,2624,13,135,1504.3,601.2,16,0.061,2020,4,748
+NexusSolutions,Real Estate,Private Equity,Belgium,Recession,Hybrid,6255,32,79,1593.4,1942.29,13,-0.044,2023,7,900
+DataGroup,Aerospace,Acquired,Argentina,Recovery,Hybrid,2153,13,35,823.1,764.51,11,0.028,2021,1,498
+Trybe,Food,Series A,Chile,Recession,Hybrid,87,2,197,12.5,26.46,13,0.021,2020,12,14
+Qoala,Hardware,Post-IPO,Greece,Stable,Office,8597,40,7,1633.2,1369.32,14,0.002,2024,1,1471
+DataSolutions,Support,Series A,Malaysia,Recovery,Hybrid,93,4,113,10.5,34.32,8,0.03,2021,6,27
+AIInc,Aerospace,Subsidiary,India,Recovery,Hybrid,4570,19,162,811.5,1654.53,20,-0.061,2021,8,1225
+GlobalTechnologies,Food,Series E,South Africa,Stable,Office,532,8,39,269.8,140.24,10,-0.021,2024,2,113
+DataInnovations,Unknown,Series G,Ukraine,Recovery,Office,1222,14,114,733.4,195.27,14,-0.036,2024,5,356
+Tomorrow,Product,Series F,Pakistan,Downturn,Office,1096,12,106,427.1,304.33,8,0.001,2022,9,184
+Politico / Protocol,Data,Private Equity,Ireland,Downturn,Hybrid,1910,28,64,1122.7,507.7,20,0.021,2022,4,249
+QuantumGroup,Marketing,Series D,Sweden,Recession,Hybrid,490,6,80,151.4,126.35,15,0.067,2023,4,99
+ApexInnovations,Security,Series C,Germany,Recession,Office,254,5,67,72.8,77.99,15,0.013,2020,5,67
+DigitalVentures,HR,Series J,Finland,Recovery,Remote,1682,22,90,1949.8,646.6,8,-0.013,2024,8,222
+NexusSystems,HR,Private Equity,Sweden,Recession,Hybrid,6510,30,168,1611.9,1775.93,12,0.002,2020,8,1343
+GlobalCorp,Logistics,Series F,Sweden,Recession,Hybrid,701,8,134,301.5,146.07,13,-0.024,2023,8,113
+DataInc,Data,Unknown,Estonia,Recovery,Hybrid,1581,6,213,11.8,275.19,15,-0.003,2024,3,224
+GlobalGroup,Marketing,Series D,Colombia,Recovery,Office,629,10,24,175,139.45,11,-0.012,2024,10,135
+AIGroup,Recruiting,Series E,South Korea,Stable,Remote,468,12,202,170.8,63.07,10,0.001,2022,1,76
+Momentive,Finance,Seed,Ireland,Downturn,Hybrid,25,2,64,2.4,7.99,11,-0.071,2022,10,2
+QuantumVentures,Real Estate,Series F,Saudi Arabia,Recovery,Office,950,13,186,346.3,418.97,12,-0.064,2024,8,248
+DigitalDynamics,Transportation,Series G,Lithuania,Downturn,Office,1240,15,226,822.6,390.59,15,0.068,2022,8,165
+SmartSystems,Support,Series C,China,Recession,Remote,286,6,203,80.3,68.73,8,-0.034,2023,7,82
+DigitalInc,Data,Series B,Belgium,Stable,Hybrid,155,5,32,35.9,52.6,15,-0.045,2020,1,51
+Workit Health,Media,Unknown,Indonesia,Recession,Hybrid,658,10,101,53,176.22,17,-0.056,2020,6,180
+TechCorp,Unknown,Series I,Bulgaria,Recovery,Office,1627,11,206,984.3,361.48,20,-0.016,2024,7,280
+Better.com,Legal,Series A,Greece,Recession,Office,91,2,7,6.3,24.63,13,-0.008,2020,11,16
+AILabs,Retail,Series B,Luxembourg,Downturn,Remote,185,4,130,35.4,41.59,6,-0.007,2022,7,26
+NexusDynamics,Finance,Series D,Italy,Stable,Hybrid,663,11,142,135.7,202.48,16,0.039,2023,12,161
+CyberCube,Real Estate,Post-IPO,Ukraine,Stable,Office,6782,46,114,3631.6,1928.49,8,-0.044,2024,1,1217
+SmartSolutions,Security,Unknown,United Kingdom,Recovery,Office,860,12,189,85,405.51,20,-0.042,2024,12,56
+NexusTechnologies,Logistics,Series F,Uruguay,Recession,Office,1046,8,147,501,334.14,18,-0.029,2020,5,165
+Zume,Finance,Series B,Malaysia,Downturn,Hybrid,195,5,113,27.2,41.51,9,-0.133,2022,5,19
+TextNow,Consumer,Series J,Thailand,Recession,Remote,2386,17,12,1822.7,749.64,12,-0.015,2023,3,478
+Alice,Healthcare,Seed,Ghana,Recovery,Remote,44,2,1,3.5,12.2,17,0.026,2021,4,14
+Better.com,Crypto,Subsidiary,United States,Recession,Hybrid,4271,32,193,954.7,1768.86,14,-0.045,2020,6,1071
+Fivetran,Food,Series H,Hungary,Recovery,Hybrid,1915,19,34,1158.9,536.76,12,-0.021,2024,10,313
+QuantumDynamics,Transportation,Series H,Cayman Islands,Recovery,Office,1317,10,40,1001.1,385.53,14,0.023,2021,8,410
+IronNet,Sales,Seed,Singapore,Recovery,Hybrid,26,1,205,2,4.09,11,0.037,2024,10,4
+TechSolutions,Security,Series D,Austria,Recovery,Hybrid,419,7,122,144.3,157.92,12,0.006,2024,9,131
+TechLabs,Recruiting,Series C,Bulgaria,Recovery,Hybrid,306,5,206,72.6,65.69,9,-0.078,2024,4,70
+GlobalLabs,Crypto,Series A,United Kingdom,Growth,Office,104,3,118,10.9,25.64,12,-0.022,2021,12,14
+GlobalTechnologies,Manufacturing,Series B,United Arab Emirates,Recession,Office,170,7,63,34.3,43.14,13,0.037,2020,3,38
+DigitalInc,Recruiting,Series F,Russia,Recovery,Hybrid,1155,9,149,359.7,439.83,15,0.016,2021,8,229
+AIInc,Education,Series F,Argentina,Recovery,Hybrid,1209,7,35,436.7,538.08,16,0.003,2024,8,328
+Klaviyo,Support,Series E,Myanmar,Recovery,Hybrid,699,9,236,228.6,220.29,12,-0.021,2021,6,83
+OSlash,AI,Series F,India,Recession,Hybrid,721,13,153,300.1,230.07,12,-0.009,2023,8,133
+Parsable,Energy,Series C,Estonia,Recession,Hybrid,259,7,213,66.1,67.39,12,0.052,2023,8,49
+Karat Financial,Product,Unknown,Luxembourg,Downturn,Remote,861,8,130,23.9,383.4,18,-0.028,2022,5,194
+Magnite,Other,Private Equity,Netherlands,Recovery,Hybrid,8155,12,222,727.7,1753.12,13,0.043,2024,10,769
+GlobalInnovations,Energy,Seed,Luxembourg,Recession,Hybrid,26,2,130,3.6,7.96,9,0.044,2020,10,2
+Coinsquare,Crypto,Subsidiary,Denmark,Growth,Remote,2887,37,53,1433.7,609.67,20,-0.007,2021,12,626
+QuantumLabs,Sales,Series D,Portugal,Recovery,Hybrid,685,7,123,111,169.65,20,0.014,2024,3,115
+NexusInnovations,Support,Series H,Italy,Recession,Office,1660,14,142,1416.9,596.32,12,0.053,2020,8,248
+DataSolutions,Real Estate,Post-IPO,Philippines,Recession,Remote,6346,12,137,2211.3,2437.22,14,-0.068,2023,5,2021
+ApexVentures,Marketing,Unknown,Russia,Downturn,Remote,1645,15,149,43.5,545.9,14,-0.009,2022,6,193
+TechDynamics,Education,Private Equity,New Zealand,Downturn,Hybrid,4888,25,231,1022.1,768.6,21,-0.008,2022,10,549
+Avantage Entertainment,Legal,Seed,China,Stable,Hybrid,29,1,204,2.6,5.91,19,0.065,2024,1,4
+QuantumInnovations,Travel,Unknown,Estonia,Recovery,Hybrid,993,6,213,48.3,290.21,17,-0.004,2024,5,212
+CloudVentures,Consumer,Series H,Indonesia,Stable,Hybrid,1559,16,101,1037.3,462.91,17,0.018,2023,10,530
+GlobalInnovations,HR,Series F,Lithuania,Recession,Remote,1383,9,226,375.9,443.99,14,0.025,2023,4,457
+TechInnovations,Finance,Subsidiary,South Africa,Recovery,Hybrid,6855,39,39,730.5,2062.07,10,-0.048,2021,2,966
+DigitalVentures,Education,Post-IPO,Singapore,Recession,Office,11803,16,205,3513.6,4274.48,11,-0.031,2020,7,965
+GlobalVentures,Legal,Series F,Uruguay,Downturn,Remote,914,8,147,401,201.99,21,-0.021,2022,9,165
+GlobalDynamics,Fitness,Series I,Cayman Islands,Recession,Office,1482,10,40,1573.4,513.26,13,0.008,2023,8,249
+ApexVentures,Consumer,Private Equity,Philippines,Recession,Office,1092,38,137,1493.5,207.03,20,-0.021,2020,4,206
+Juni,AI,Post-IPO,United Kingdom,Recovery,Remote,10153,16,118,1983.8,3641.14,11,-0.031,2024,7,2478
+NexusLabs,Travel,Seed,United Kingdom,Recession,Office,23,3,118,3.6,7.7,15,0.01,2020,6,2
+NexusSystems,AI,Series H,Ghana,Recession,Office,1541,15,1,865.6,408.86,11,0.009,2020,9,300
+Typeform,Recruiting,Series D,France,Recession,Office,376,6,171,173.1,130.33,11,0.03,2020,11,97
+Beat,Other,Private Equity,Hungary,Growth,Hybrid,9792,20,34,611.1,1762.73,15,0.007,2021,11,1349
+Vedantu,Security,Seed,Indonesia,Recovery,Hybrid,24,3,101,3.8,10.03,18,-0.009,2024,5,4
+Moove,Construction,Series A,Belgium,Recovery,Hybrid,136,4,79,7.1,30.43,16,-0.038,2024,4,48
+QuantumGroup,Legal,Series J,Bulgaria,Recession,Remote,2462,20,206,1556.4,1123.81,15,0.014,2020,9,646
+Niche,Security,Series C,Japan,Stable,Office,315,8,217,84.7,132.63,12,-0.022,2020,2,57
+SmartCorp,Retail,Subsidiary,Australia,Recession,Remote,3903,48,138,860.4,806.42,12,-0.053,2023,8,624
+TechGroup,Recruiting,Series G,Switzerland,Recession,Hybrid,1460,17,208,681.7,579.06,15,-0.026,2023,6,216
+SmartGroup,Media,Unknown,Sweden,Recession,Office,832,18,133,71.5,258.24,11,0.002,2020,3,216
+Examedi,Manufacturing,Series F,Belgium,Downturn,Office,892,9,32,561.7,354.63,14,-0.006,2022,4,107
+GlobalSolutions,Other,Series B,Ireland,Recession,Office,197,5,64,24,59.78,10,-0.041,2020,10,28
+NexusTechnologies,Data,Series C,Kenya,Recovery,Office,388,9,152,68.5,85.05,10,-0.036,2021,8,46
+Mural,Education,Series F,Seychelles,Recovery,Hybrid,1017,9,163,498.7,462.97,22,0.026,2024,6,196
+SmartVentures,Support,Series E,Luxembourg,Recession,Office,774,6,130,205.4,236.94,13,-0.092,2020,9,119
+SmartSolutions,Logistics,Subsidiary,Germany,Recession,Office,2939,50,151,870.8,1074.84,23,0.01,2023,6,662
+QuantumDynamics,Other,Series C,Portugal,Downturn,Hybrid,295,4,51,63.2,50.98,12,-0.013,2022,7,28
+Volta,Education,Series B,United Arab Emirates,Recession,Hybrid,133,4,63,23.7,61.14,12,-0.052,2020,6,27
+CloudInnovations,Crypto,Seed,United States,Stable,Office,40,2,154,2.4,12.45,11,-0.091,2022,3,10
+SmartCorp,Finance,Series D,Seychelles,Recession,Hybrid,498,7,15,87.9,60.34,12,-0.023,2023,7,127
+Arch Oncology,Real Estate,Series F,Austria,Recession,Office,1111,11,225,375.8,234.09,15,-0.052,2020,4,308
+GlobalDynamics,Healthcare,Post-IPO,Greece,Recession,Hybrid,9749,15,7,3035.3,2615.76,13,0.067,2020,4,2044
+DataInc,Travel,Post-IPO,Cayman Islands,Recovery,Office,3231,32,40,4137.8,1488.61,15,-0.056,2024,3,595
+DataTechnologies,Fitness,Series J,Japan,Downturn,Remote,3266,23,217,2152.2,825.95,16,-0.034,2022,8,205
+AILabs,Data,Subsidiary,Ukraine,Recession,Office,5029,24,114,183.4,1785.87,14,-0.025,2023,4,766
+Beam Benefits,Real Estate,Acquired,Bahrain,Downturn,Office,2560,29,135,248.6,922.62,18,-0.118,2022,10,781
+Atome,AI,Subsidiary,Ghana,Recession,Office,6916,23,1,602.6,1681.83,20,0.029,2020,4,619
+NexusGroup,Logistics,Post-IPO,Bahrain,Recession,Hybrid,9128,20,135,1968.7,2704.33,11,0.006,2023,9,1165
+CloudCorp,Other,Series C,Saudi Arabia,Recession,Hybrid,333,7,186,63.1,56.24,13,0.006,2020,7,35
+PayPal,Energy,Subsidiary,New Zealand,Recession,Office,5350,18,231,1138.4,1748.89,16,0.028,2020,6,1436
+SmartSystems,Logistics,Series E,Singapore,Recovery,Remote,797,12,205,252.9,266.59,19,-0.003,2024,9,147
+AILabs,Sales,Series H,Finland,Downturn,Office,1783,11,90,1025.6,476.31,16,-0.08,2022,10,360
+QuantumDynamics,Healthcare,Series F,Ghana,Stable,Office,745,12,1,356,168.89,13,-0.011,2022,3,213
+GlobalSolutions,Media,Series D,Russia,Downturn,Hybrid,572,8,149,155.8,213.01,18,-0.054,2022,11,211
+GlobalInc,Transportation,Acquired,Luxembourg,Recession,Office,2958,8,130,595.5,1149.52,17,0.026,2020,9,703
+DigitalInnovations,Crypto,Series E,Myanmar,Downturn,Hybrid,541,12,236,229.6,223.08,7,-0.115,2022,7,70
+Playdots,Logistics,Series B,Kenya,Downturn,Hybrid,204,5,152,22.1,49.18,16,-0.055,2022,8,19
+DigitalCorp,Legal,Unknown,Brazil,Recession,Office,576,6,74,67.4,215.64,10,-0.015,2023,7,136
+AISolutions,Retail,Series H,Kenya,Recession,Office,1672,18,152,1287.7,379.2,13,0.024,2023,5,154
+QuantumSolutions,Travel,Series J,South Korea,Recovery,Hybrid,3332,19,202,1811.4,1248.69,15,0.041,2021,4,871
+DataSystems,Manufacturing,Post-IPO,Ukraine,Recession,Office,5072,32,114,3316.6,674.26,12,0.01,2020,7,664
+NexusSystems,Food,Series I,Czech Republic,Recession,Office,2065,21,178,1884.3,857.73,8,0.04,2020,4,635
+CloudSystems,Data,Unknown,Seychelles,Recession,Office,1262,8,224,27.3,429.32,21,0.014,2020,9,170
+NexusCorp,Legal,Series F,Argentina,Stable,Remote,1200,12,35,425.7,473.37,13,-0.022,2022,3,201
+AIDynamics,HR,Acquired,Turkey,Recovery,Hybrid,2236,17,99,241.7,349.35,8,-0.004,2024,11,227
+NexusTechnologies,Consumer,Series C,Saudi Arabia,Recession,Remote,282,8,186,75.7,72.74,15,-0.044,2023,6,40
+AICorp,Media,Series F,South Korea,Recovery,Remote,1030,13,202,363.2,230.88,17,-0.067,2021,4,340
+DataVentures,Other,Series D,Sweden,Growth,Remote,638,7,133,107.7,214.73,13,0.031,2021,9,221
+TechInc,Travel,Unknown,Vietnam,Recession,Remote,1023,10,88,47.5,322.96,13,-0.027,2023,6,161
+TechGroup,Unknown,Series J,Uruguay,Growth,Hybrid,3088,16,147,2385.6,608.42,20,0.003,2021,11,789
+QuantumDynamics,Transportation,Series H,Peru,Recession,Office,1652,14,121,930,471.38,21,0.031,2020,5,556
+Yojak,Consumer,Series H,Greece,Recovery,Remote,1829,11,7,905.5,782.86,13,-0.02,2024,4,176
+AIDynamics,Hardware,Series A,Myanmar,Downturn,Hybrid,135,3,236,11.5,41.53,12,-0.055,2022,4,32
+TechLabs,Fitness,Series I,Italy,Downturn,Hybrid,2015,13,142,1365.2,884.86,14,-0.075,2022,4,276
+ApexSystems,Marketing,Series A,Estonia,Recession,Hybrid,49,5,213,6.2,10.39,14,-0.008,2020,8,12
+DigitalVentures,Consumer,Seed,Luxembourg,Recovery,Office,26,1,130,4.1,8.27,19,-0.042,2024,6,7
+DataGroup,Other,Seed,Estonia,Recovery,Hybrid,30,3,213,2.6,9.92,12,0.055,2024,10,3
+NexusInnovations,Retail,Seed,Cayman Islands,Recovery,Office,34,1,40,2.7,10.52,21,-0.018,2024,11,6
+NexusInc,Crypto,Series D,Netherlands,Recovery,Hybrid,499,5,222,125.5,151.75,13,-0.126,2024,8,92
+DataVentures,Transportation,Unknown,Saudi Arabia,Recovery,Office,1047,11,186,70.2,315.53,8,0.04,2021,3,119
+NexusDynamics,Product,Series H,Canada,Stable,Office,2047,14,38,1147.3,649.27,13,0.043,2022,1,261
+DigitalDynamics,Infrastructure,Series H,Uruguay,Recession,Office,1319,12,147,1165.9,346.82,12,-0.003,2023,9,251
+FullStory,Legal,Series H,Japan,Recovery,Remote,1624,15,217,951.9,372.57,15,0.031,2021,1,407
+CyberGRX,Recruiting,Series C,Ireland,Recovery,Remote,269,6,54,70.5,56.94,17,-0.029,2021,2,78
+CloudInc,Sales,Series I,Austria,Recession,Hybrid,1400,20,122,1266.9,442.41,19,0.015,2023,2,86
+FamPay,Transportation,Series F,Spain,Downturn,Hybrid,1093,13,132,497.2,189.49,21,0.002,2022,10,328
+DataSolutions,AI,Series C,United Kingdom,Recovery,Hybrid,233,4,68,83.8,115.34,16,0.003,2024,5,48
+ApexSolutions,Education,Series D,Indonesia,Recession,Remote,515,5,101,113.9,231.79,11,-0.055,2023,4,49
+DigitalCorp,Legal,Series I,Poland,Recession,Hybrid,2868,11,125,1353.9,1007,20,-0.014,2023,1,268
+TechVentures,Fitness,Unknown,Ireland,Growth,Remote,481,13,54,54.6,175.63,20,-0.043,2021,9,94
+DataSolutions,Unknown,Unknown,Belgium,Recession,Remote,1650,12,79,51.5,344.5,10,0.049,2023,3,350
+QuantumSolutions,Aerospace,Series J,Canada,Recession,Hybrid,2627,14,148,1817.2,632.91,18,-0.015,2023,4,327
+DigitalLabs,Product,Series I,South Korea,Recovery,Remote,2223,17,202,1483.3,485.66,10,-0.026,2021,4,329
+Workrise,HR,Series B,Philippines,Recovery,Office,240,4,137,22.5,40.11,13,0.05,2021,2,42
+DataSystems,Hardware,Series I,Kenya,Recession,Hybrid,2663,11,152,1390,725.17,15,0.022,2023,8,446
+DigitalGroup,Retail,Unknown,New Zealand,Downturn,Remote,414,20,231,33.5,125.8,12,-0.038,2022,7,39
+SmartGroup,Marketing,Series E,Ireland,Stable,Hybrid,720,9,64,220.5,181.12,16,-0.002,2022,3,77
+GlobalLabs,Product,Series I,Ghana,Recession,Hybrid,2614,21,1,1715.4,727.74,11,0.037,2023,6,279
+ApexTechnologies,Real Estate,Private Equity,Romania,Recovery,Remote,5631,15,50,720.9,1567.36,16,-0.053,2021,7,1256
+Upstart,Construction,Series D,Canada,Recession,Hybrid,440,10,218,113.9,161.11,11,-0.019,2023,9,62
+QuantumVentures,AI,Seed,Denmark,Recession,Office,24,1,53,2.5,4.05,12,0.029,2020,3,1
+SmartLabs,Infrastructure,Seed,Saudi Arabia,Recovery,Hybrid,37,2,186,3.2,10.54,15,0.009,2024,7,5
+TechLabs,Legal,Subsidiary,Cayman Islands,Recession,Remote,4099,5,40,644.6,1092.69,14,-0.083,2023,5,1216
+Philips,Recruiting,Private Equity,Pakistan,Recession,Office,3143,12,106,1037,922.77,15,-0.022,2020,3,408
+Caribou,Product,Seed,Uruguay,Growth,Office,30,2,147,1.8,7.39,14,-0.035,2021,10,4
+ApexInc,Travel,Series J,Thailand,Downturn,Office,2680,23,12,1684,751.08,19,0.013,2022,11,527
+NexusCorp,Unknown,Seed,Bulgaria,Stable,Hybrid,29,1,206,3,8.19,16,-0.04,2023,12,2
+TechInnovations,Infrastructure,Seed,Turkey,Stable,Remote,32,2,99,2.9,12.65,11,-0.009,2024,2,9
+Quora,Other,Series A,Hong Kong,Recovery,Hybrid,89,5,92,6.6,24.26,19,-0.058,2021,8,15
+SmartInc,Data,Private Equity,Peru,Downturn,Office,3746,33,121,1086.9,837.74,19,0.021,2022,7,646
+Inmobi,Crypto,Series F,United Kingdom,Recession,Hybrid,1116,12,46,333.1,280.83,17,-0.077,2023,2,329
+Enphase Energy,Healthcare,Series D,New Zealand,Recovery,Remote,684,10,9,136.2,196.32,14,-0.02,2024,12,226
+DataSystems,Sales,Series D,Russia,Downturn,Hybrid,659,11,149,184.8,242.44,8,-0.045,2022,6,150
+Ro,Logistics,Unknown,Italy,Recovery,Remote,1077,15,142,90.9,276.63,11,-0.07,2021,1,99
+Culture Trip,Product,Series H,Japan,Recession,Hybrid,1407,18,217,1275,411.84,8,-0.039,2020,8,115
+CloudLabs,Hardware,Series I,Canada,Recovery,Hybrid,1522,19,199,1874.9,286.12,12,-0.073,2024,6,339
+TechSolutions,Crypto,Series E,Bahrain,Recession,Hybrid,1097,13,135,240.8,202.75,11,-0.039,2023,8,215
+Avo,Product,Private Equity,Hungary,Recession,Remote,3421,36,34,1149.7,1207.23,19,-0.049,2020,3,707
+DigitalGroup,Retail,Series G,United Arab Emirates,Stable,Office,1540,12,63,747.5,494,10,-0.035,2024,2,505
+TechCorp,Education,Series A,Italy,Recession,Office,63,4,142,8.1,18.97,9,-0.015,2023,4,18
+NexusSolutions,Infrastructure,Series B,Colombia,Recovery,Remote,196,5,24,24.4,33.19,10,0.019,2021,7,45
+TechGroup,Hardware,Series E,Austria,Downturn,Hybrid,885,11,122,275.6,146.34,9,-0.004,2022,4,182
+TechInc,Fitness,Post-IPO,Italy,Downturn,Hybrid,5385,35,142,2551.8,1705.02,15,-0.041,2022,4,1267
+DigitalGroup,Education,Unknown,United States,Downturn,Office,1346,18,58,58.3,421.48,9,-0.031,2022,6,243
+Pana,Infrastructure,Seed,Seychelles,Recession,Hybrid,38,3,15,2.7,11.54,12,0.037,2023,3,8
+CloudInc,Manufacturing,Unknown,Ireland,Recovery,Remote,857,19,64,50.3,256.95,17,-0.022,2024,9,102
+TechInnovations,Energy,Series I,Peru,Recovery,Hybrid,2105,18,121,1105.7,635.04,20,-0.08,2021,3,736
+AILabs,Real Estate,Post-IPO,South Africa,Recovery,Hybrid,6640,49,39,2890.1,1907.72,15,-0.101,2024,11,1618
+QuantumVentures,Transportation,Unknown,Brazil,Recovery,Office,1426,1,104,18.3,501.27,11,0.076,2021,4,396
+QuantumGroup,Marketing,Series I,Canada,Recovery,Hybrid,2126,17,169,943.4,517.16,17,-0.059,2021,2,576
+SmartTechnologies,AI,Private Equity,Ghana,Recession,Office,6151,13,1,1275.5,2260.93,14,-0.071,2020,4,1044
+CloudSystems,Hardware,Post-IPO,Norway,Downturn,Hybrid,6463,38,194,4014.3,1564.57,10,0.042,2022,11,830
+TechInnovations,Media,Series I,Vietnam,Growth,Office,1704,18,88,1520.8,501.49,8,0.032,2021,11,401
+ApexDynamics,Consumer,Private Equity,Malaysia,Recession,Hybrid,4374,26,113,1290.4,725.35,9,0.02,2023,3,779
+DataVentures,Marketing,Acquired,Ireland,Growth,Hybrid,2055,8,64,403.8,715.69,14,-0.003,2021,12,319
+Friday Health Plans,Unknown,Unknown,Pakistan,Stable,Hybrid,1054,8,106,64.3,350.31,14,0.039,2024,2,228
+AITechnologies,Food,Series D,Italy,Recovery,Hybrid,454,9,142,95.5,54.38,13,0.013,2021,4,173
+StreamSets,Manufacturing,Series G,Czech Republic,Downturn,Remote,1119,10,178,716.7,214.36,9,-0.001,2022,11,248
+GlobalDynamics,Marketing,Series E,Canada,Stable,Hybrid,904,13,199,288.7,271.07,10,0.01,2024,2,188
+NexusLabs,Infrastructure,Series A,Philippines,Recession,Office,107,2,137,10.5,44.96,18,0.025,2020,6,15
+NexusLabs,HR,Subsidiary,Sweden,Recovery,Hybrid,6496,10,133,678.1,928.96,18,-0.006,2021,7,907
+DigitalLabs,Retail,Seed,Bulgaria,Recession,Office,32,1,206,1.1,4.72,9,-0.054,2020,9,10
+DigitalInc,Data,Series J,Romania,Stable,Remote,2178,22,33,1849.9,622.37,16,0.048,2023,11,422
+Toast,Education,Series D,United Kingdom,Recession,Remote,323,11,118,137.3,94.39,12,0.029,2023,2,63
+Impossible Foods,Support,Series G,Nigeria,Downturn,Hybrid,1494,15,115,703.7,584.64,12,0.002,2022,9,214
+CodeCombat,Data,Series I,Portugal,Growth,Office,1894,20,123,1575,497.09,10,0.02,2021,9,403
+Nav,AI,Series J,Kenya,Recession,Remote,2387,11,152,1752.7,784.26,13,0.002,2023,5,371
+TechSystems,Real Estate,Series F,Ireland,Recovery,Hybrid,944,14,64,409,303.29,9,-0.034,2021,8,256
+SmartSystems,Retail,Series A,United Arab Emirates,Stable,Office,64,2,63,9,15.69,23,0.001,2022,1,17
+AIVentures,Infrastructure,Unknown,Singapore,Growth,Remote,379,16,205,59.7,90,9,-0.076,2021,10,115
+QuantumSystems,Legal,Seed,Austria,Recovery,Hybrid,13,3,225,2.1,2.73,10,-0.011,2024,8,1
+Hootsuite,Unknown,Seed,Kenya,Downturn,Office,23,2,152,3.1,7.55,16,0.069,2022,7,3
+GlobalCorp,Real Estate,Series C,Vietnam,Downturn,Hybrid,208,4,91,74.4,63.33,13,-0.006,2022,7,48
+GlobalInnovations,Construction,Series D,Vietnam,Recession,Office,635,8,88,149.2,144.53,18,0.063,2020,3,60
+Properly,Energy,Series H,Denmark,Recession,Hybrid,1552,19,53,1021.7,542.58,12,-0.023,2020,3,287
+QuantumInnovations,Marketing,Series A,United Kingdom,Recovery,Office,88,2,127,8.2,21.21,11,-0.002,2021,7,13
+Fifth Season,Logistics,Series F,Russia,Recession,Office,1025,13,149,471.3,303.91,21,-0.061,2020,10,202
+Endowus,Legal,Subsidiary,Norway,Recession,Hybrid,1485,7,194,1307.8,277.33,17,-0.023,2020,11,398
+Commure,Infrastructure,Series J,Netherlands,Stable,Office,1985,19,222,1616.8,557.69,14,0.025,2023,12,449
+NexusInc,Media,Series A,Bulgaria,Recession,Hybrid,59,4,206,6.3,20.77,12,-0.04,2023,5,14
+GlobalTechnologies,AI,Series B,Vietnam,Recession,Office,211,5,88,21.3,32.92,15,0.029,2020,6,43
+DataDynamics,Travel,Series B,United Arab Emirates,Recovery,Hybrid,136,3,63,15.8,28.67,12,-0.051,2021,7,12
+CloudCorp,Energy,Private Equity,Austria,Stable,Hybrid,2224,39,225,1665.4,949.85,13,0.063,2023,12,293
+SmartInc,Construction,Series J,France,Growth,Office,2268,20,219,2030.8,670.11,21,-0.091,2021,12,560
+QuantumInnovations,Consumer,Series D,Bulgaria,Stable,Hybrid,401,6,206,150.6,127.41,8,0.027,2024,1,96
+AICorp,Security,Series A,New Zealand,Recovery,Hybrid,97,5,9,10,29.02,14,-0.066,2024,7,25
+DataTechnologies,Transportation,Series F,Pakistan,Recession,Hybrid,1013,7,116,354.8,362.12,9,0.067,2020,11,172
+Vibrent Health,Fitness,Post-IPO,New Zealand,Recovery,Office,10920,9,9,1950.4,2036.55,14,0.021,2024,11,3691
+Daraz,Real Estate,Series H,Russia,Recession,Office,1579,19,149,863.8,452.15,16,-0.027,2020,11,461
+NexusInnovations,Travel,Series F,Seychelles,Recovery,Office,1205,14,163,352,224.82,7,-0.072,2024,11,220
+SmartGroup,Travel,Series F,Hong Kong,Recovery,Remote,1072,12,92,396,401.81,12,0.015,2024,5,142
+NexusSystems,Infrastructure,Series J,Singapore,Recovery,Office,2475,19,205,1962.9,727.57,12,0.01,2024,5,581
+DataSystems,Legal,Subsidiary,Estonia,Recession,Office,4582,19,213,1001.3,1047.26,17,0.034,2020,8,485
+Modern Treasury,Manufacturing,Series F,Pakistan,Recovery,Remote,764,7,106,395.2,301.05,11,-0.017,2021,7,43
+Augury,Data,Series I,Austria,Recovery,Hybrid,1859,10,122,947.9,481.77,10,0.011,2021,4,441
+DataInc,Media,Acquired,Colombia,Recovery,Office,2820,16,24,747.5,917.36,13,0.008,2024,9,410
+CloudLabs,Food,Series I,Canada,Recovery,Hybrid,2234,14,38,1360.8,513.96,13,0.044,2021,5,750
+Sensor Tower,Food,Series H,Thailand,Recovery,Hybrid,1742,16,12,1334.2,379.54,10,0.025,2021,4,195
+CloudInnovations,Media,Unknown,Vietnam,Recession,Office,948,16,91,88.3,387.08,11,0.016,2020,9,146
+QuantumSolutions,Other,Series J,Egypt,Recession,Hybrid,2945,17,37,1420,1037.03,15,-0.082,2023,1,533
+Frontdesk,Infrastructure,Acquired,Bahrain,Recovery,Hybrid,2528,26,135,712.6,920.95,17,0.059,2021,2,750
+AIInc,Transportation,Private Equity,Greece,Recovery,Remote,4106,13,7,1253.6,1642.21,13,0.018,2021,7,594
+NexusInnovations,Finance,Private Equity,United States,Growth,Remote,4442,30,179,706.9,848.24,17,-0.071,2021,9,428
+QuantumLabs,Healthcare,Series A,Finland,Stable,Hybrid,100,4,70,11.5,16.91,13,0.013,2023,11,17
+HighRadius,Finance,Series H,Netherlands,Recovery,Hybrid,1979,13,222,803.5,734.61,17,-0.057,2024,8,382
+GoDaddy,Sales,Series G,Pakistan,Stable,Hybrid,1620,17,106,823.6,429.78,13,-0.038,2022,3,294
+GlobalSolutions,Support,Series H,Portugal,Recession,Office,1734,18,51,851.2,478.48,14,-0.043,2020,9,528
+SiriusXM,Manufacturing,Series B,Estonia,Recovery,Remote,108,4,213,28.7,50.14,18,-0.013,2024,3,13
+Fivetran,Real Estate,Acquired,South Korea,Recession,Office,570,24,202,578.2,236.6,17,-0.078,2020,10,86
+CloudInnovations,Media,Series I,Denmark,Recovery,Remote,2323,12,53,1717.5,639.84,11,-0.016,2024,10,648
+CloudCorp,Education,Series B,Bahrain,Recovery,Hybrid,158,3,135,37.6,47.37,12,-0.004,2021,8,28
+DataSystems,Fitness,Series A,United States,Recession,Hybrid,67,3,161,12.1,17.33,16,-0.032,2023,4,9
+QuantumGroup,Transportation,Series G,Australia,Recovery,Remote,1394,14,212,769.5,341.77,17,0.022,2021,5,119
+QuantumSystems,Real Estate,Acquired,Ukraine,Downturn,Hybrid,2183,8,114,590,595.43,10,-0.068,2022,5,751
+NexusInnovations,Retail,Private Equity,Canada,Recession,Hybrid,4758,18,233,1215.7,1272.93,11,0.059,2023,5,1350
+NexusCorp,Healthcare,Series H,Nigeria,Recession,Office,1621,19,115,657.9,580.27,17,0.032,2023,8,280
+DigitalInc,Finance,Series I,New Zealand,Recession,Office,2043,14,231,1415.5,973.85,12,-0.055,2020,9,183
+QuantumCorp,Security,Series C,Argentina,Stable,Office,362,8,35,60.1,128.97,19,0.049,2020,1,80
+AICorp,Food,Private Equity,Denmark,Recession,Hybrid,4246,8,53,1000.4,1176.27,8,0.012,2023,5,463
+DigitalCorp,Legal,Series E,United Kingdom,Recovery,Hybrid,617,12,118,316.5,172.49,17,-0.003,2021,7,108
+TechInc,Other,Series D,Nigeria,Recovery,Office,377,11,96,115.1,149.6,12,-0.016,2024,12,65
+Gokada,Retail,Series F,Saudi Arabia,Recovery,Hybrid,1234,10,186,380.5,479.1,7,-0.022,2024,6,452
+AIInnovations,Product,Subsidiary,Russia,Stable,Office,5587,48,149,851.9,944.92,12,0.017,2023,12,1103
+CloudInc,Data,Seed,Italy,Stable,Office,27,3,142,4.3,6.56,13,-0.045,2020,1,6
+Breathe,HR,Series A,Turkey,Recovery,Hybrid,72,4,99,10.7,21.24,11,-0.069,2024,6,16
+DigitalVentures,Media,Series G,Russia,Recovery,Remote,1085,10,149,705.3,282.45,12,0.031,2024,5,214
+NexusInc,HR,Post-IPO,Nigeria,Recovery,Hybrid,13468,16,115,1051.3,4922.6,14,0.002,2024,8,1950
+ApexSystems,Energy,Series I,Mexico,Downturn,Office,2353,17,82,1378.2,925.92,16,-0.018,2022,12,584
+Zoopla,Recruiting,Series J,Sweden,Downturn,Remote,2787,13,133,1974.9,603.15,14,-0.006,2022,5,741
+DataVentures,Product,Acquired,Cayman Islands,Recession,Hybrid,2790,5,40,287.2,730.54,13,0.027,2023,3,739
+DigitalCorp,Recruiting,Unknown,Indonesia,Recovery,Hybrid,1488,17,101,75.8,481.7,20,0.013,2024,5,448
+AIVentures,Sales,Private Equity,Estonia,Recession,Hybrid,6945,14,213,766.9,1708.28,12,-0.001,2023,6,1134
+AIInnovations,Sales,Series A,Ghana,Recession,Office,100,2,1,7.3,22.89,13,-0.031,2020,8,17
+Cvent,AI,Series J,South Africa,Recovery,Hybrid,3138,13,39,1695,1044.75,16,0.028,2024,10,211
+DataDynamics,Marketing,Subsidiary,Vietnam,Recession,Hybrid,5217,3,91,803.9,1456.28,12,0.048,2020,9,1777
+DigitalSystems,Retail,Acquired,Czech Republic,Stable,Office,2690,10,31,692.1,986.85,13,-0.01,2024,1,838
+HubHaus,Logistics,Series H,United States,Recession,Hybrid,1250,16,174,687.4,406.87,15,0.045,2023,4,333
+CloudVentures,Manufacturing,Acquired,Australia,Recession,Office,2071,21,29,669.1,722.96,12,0.022,2020,4,535
+StoryBlocks,Recruiting,Acquired,Japan,Downturn,Office,2653,25,217,235.9,1278.11,19,0.029,2022,12,606
+CloudInc,Infrastructure,Series A,Pakistan,Stable,Remote,135,2,106,10.3,57.35,9,0.033,2022,1,24
+GlobalDynamics,Other,Private Equity,Brazil,Recession,Hybrid,4481,36,198,1312.6,1115.65,15,0.039,2020,9,655
+Liftoff,Energy,Series B,Indonesia,Recession,Hybrid,150,3,101,26.7,67.65,11,-0.001,2020,4,23
+Venafi,AI,Series B,Austria,Downturn,Office,242,5,122,20.9,85.77,18,0.013,2022,9,54
+CloudSystems,Support,Series D,Mexico,Downturn,Remote,630,6,146,145.1,105.42,11,0.038,2022,5,89
+ApexLabs,Hardware,Series B,Indonesia,Recovery,Hybrid,193,5,101,29.8,33.81,15,-0.001,2024,9,57
+DigitalLabs,Real Estate,Series I,Netherlands,Recession,Hybrid,1342,10,216,1421.3,460.49,9,-0.04,2020,5,144
+AppLovin,Healthcare,Series G,Colombia,Recovery,Remote,1452,16,24,799.7,532.76,10,0.01,2021,4,248
+Parallel Wireless,Other,Series A,Egypt,Stable,Hybrid,82,5,37,9.4,19.62,11,-0.049,2022,3,19
+QuantumLabs,Data,Seed,Uruguay,Recession,Hybrid,34,1,147,2.9,7.83,18,-0.053,2020,10,2
+ApexSystems,Data,Series G,Italy,Recession,Office,1526,17,142,437.4,399.5,13,0.015,2023,8,351
+ApexDynamics,Data,Series E,South Africa,Downturn,Hybrid,574,11,39,352.9,132.88,10,-0.063,2022,9,191
+GoCanvas,Hardware,Seed,Belgium,Recovery,Hybrid,23,1,32,3.2,9.1,9,-0.062,2021,4,3
+Mojo,HR,Seed,Kenya,Recovery,Remote,32,3,152,1.8,6.33,8,-0.01,2021,8,8
+GlobalSolutions,Support,Subsidiary,Norway,Stable,Hybrid,5733,30,194,805,1273.78,15,-0.011,2023,11,637
+ApexSolutions,Food,Series E,Denmark,Recession,Hybrid,735,12,53,310.4,141.94,9,-0.003,2023,7,177
+GlobalCorp,Retail,Series C,Saudi Arabia,Recession,Office,373,8,186,56.6,151.01,13,-0.006,2023,7,63
+AIVentures,Product,Post-IPO,United Kingdom,Stable,Office,5912,50,136,4466.8,2431.97,12,0.046,2020,1,1821
+TechTechnologies,Crypto,Series B,Chile,Recession,Remote,267,4,197,20.7,35.6,12,-0.05,2020,6,75
+Multiverse,Education,Series F,Germany,Stable,Remote,1092,13,109,427,272.65,19,-0.03,2020,2,146
+Ro,Marketing,Series E,United States,Recession,Hybrid,754,11,102,302.9,322.66,8,-0.004,2023,1,156
+Boxed,Logistics,Private Equity,Lithuania,Downturn,Remote,4815,5,226,1483.9,1254.82,14,-0.002,2022,9,696
+CloudDynamics,Food,Series F,Thailand,Downturn,Hybrid,1049,12,12,507.3,224.07,11,0.051,2022,10,126
+Acast,Energy,Series I,Japan,Recovery,Remote,2150,21,217,1374,561.05,16,-0.016,2021,1,445
+DataInnovations,Healthcare,Series A,France,Recovery,Hybrid,102,4,219,10.8,35.86,14,-0.019,2024,9,27
+ApexGroup,Infrastructure,Series D,Thailand,Recovery,Office,572,7,12,119.3,198.51,12,0.026,2024,8,141
+SIRCLO,Travel,Private Equity,South Korea,Downturn,Office,4559,24,202,1682.8,1262.25,7,-0.084,2022,5,772
+DataInnovations,Legal,Series A,Mexico,Recovery,Hybrid,127,3,82,13.8,28.45,14,0.01,2021,4,33
+ApexGroup,Media,Series I,Ukraine,Recovery,Remote,2101,19,114,1685.8,617.3,12,-0.033,2024,5,311
+Ludia,Other,Series H,Poland,Recession,Hybrid,2402,13,84,1140.3,288.67,8,0.018,2020,12,363
+Made Renovation,Product,Series G,Australia,Downturn,Office,1133,16,29,706.6,295.48,10,-0.028,2022,5,193
+Keepe,Support,Series G,Brazil,Recession,Remote,1004,8,177,781.4,215.02,16,-0.043,2020,8,166
+BigCommerce,Recruiting,Seed,France,Recovery,Hybrid,35,2,219,3.2,9.47,12,0.057,2021,4,3
+Ericsson,Fitness,Series I,South Africa,Stable,Remote,1596,18,39,1128.5,375.37,14,0.008,2022,3,342
+DataTechnologies,Recruiting,Series J,Hong Kong,Recovery,Hybrid,2570,12,92,1059.3,997.1,16,-0.085,2024,7,924
+SmartDynamics,AI,Series A,Denmark,Stable,Office,86,3,53,10.2,28.69,17,0.025,2020,2,16
+QuantumSolutions,Sales,Post-IPO,Finland,Downturn,Remote,10046,18,70,2908.2,2710.45,12,-0.053,2022,8,1195
+DigitalDynamics,Consumer,Series J,Senegal,Recovery,Office,2163,17,57,1711.8,823.44,19,-0.037,2024,9,403
+DigitalGroup,Marketing,Post-IPO,Luxembourg,Growth,Remote,9092,18,130,3267.4,2350.39,14,0.004,2021,9,2327
+FullStory,Consumer,Series C,Uruguay,Growth,Hybrid,358,4,147,93.4,84.72,16,0.07,2021,12,22
+CloudSystems,Manufacturing,Series H,Switzerland,Recovery,Hybrid,2152,11,238,1302.6,753.34,13,-0.074,2024,10,644
+NexusTechnologies,Travel,Series E,Denmark,Recession,Remote,913,12,53,355.4,208.39,10,0.062,2020,9,279
+NexusDynamics,Logistics,Series J,Denmark,Downturn,Remote,2625,11,53,1872.7,1158.19,12,-0.03,2022,8,254
+DataDynamics,Real Estate,Post-IPO,Canada,Recession,Hybrid,6781,42,218,2298.9,1862.32,9,-0.038,2023,9,1354
+ApexDynamics,Travel,Series J,Indonesia,Downturn,Office,1674,18,101,2072.2,301.88,13,0.007,2022,4,485
+AIDynamics,Manufacturing,Series C,Switzerland,Recession,Hybrid,410,7,78,80.1,161.74,11,0.026,2023,4,67
+DataGroup,Data,Series G,Nigeria,Stable,Hybrid,1648,13,96,876.7,440.2,13,-0.034,2022,3,285
+CloudDynamics,Aerospace,Subsidiary,Malaysia,Recovery,Remote,3937,10,113,716.6,1527.81,10,-0.026,2024,8,680
+SmartInnovations,Travel,Series A,Egypt,Recovery,Remote,68,4,37,10.5,22.68,15,-0.005,2024,3,9
+ApexDynamics,Product,Series C,India,Recovery,Hybrid,224,6,95,60.7,71.44,14,-0.017,2021,6,52
+DigitalSolutions,Product,Series E,Kenya,Growth,Hybrid,967,9,152,242.5,182.02,16,0.049,2021,9,143
+DataSolutions,AI,Acquired,Portugal,Recession,Remote,3897,25,51,244.7,1430.17,8,-0.025,2023,8,507
+AIInnovations,Data,Series E,Ukraine,Downturn,Remote,1042,9,114,189,277.94,16,0.016,2022,5,194
+Vendr,Fitness,Private Equity,Chile,Recession,Hybrid,5631,39,197,1406.4,2031.36,11,0.016,2023,9,913
+AISolutions,Support,Series J,Switzerland,Stable,Hybrid,1827,21,208,1693.2,655.46,11,0.061,2024,2,439
+QuantumSolutions,Food,Series I,Bahrain,Recovery,Remote,2208,11,135,965.3,510.45,12,0.024,2021,4,358
+AICorp,Hardware,Post-IPO,Nigeria,Recession,Office,8571,21,0,3654.2,1522.23,15,0.055,2020,10,2015
+SmartDynamics,Food,Private Equity,Mexico,Recession,Hybrid,5518,7,140,1186.5,852.9,18,0.014,2023,1,717
+ApexInnovations,Recruiting,Private Equity,Australia,Recession,Hybrid,7066,38,29,1357.9,1423.98,11,0.06,2023,5,1305
+Brilliant,Real Estate,Series J,Poland,Recession,Office,2565,11,112,1569.9,663.84,14,-0.039,2020,6,856
+ApexSolutions,Infrastructure,Private Equity,Mexico,Recovery,Hybrid,9830,33,140,1613.7,2396.12,15,0.06,2024,9,2262
+DataGroup,Media,Series F,Indonesia,Recession,Hybrid,939,8,101,378.5,251.49,7,0.014,2023,3,279
+GlobalSolutions,Travel,Unknown,Brazil,Recession,Remote,1449,19,74,48.6,488.49,16,-0.062,2020,6,338
+AIInc,AI,Series H,Canada,Recession,Hybrid,1169,13,223,1157.8,351.1,17,-0.002,2023,8,311
+ApexInnovations,Infrastructure,Series C,Australia,Recession,Hybrid,274,4,29,64.3,78.5,16,0.012,2020,7,74
+DigitalInnovations,Transportation,Acquired,Romania,Recovery,Remote,3333,22,50,419.4,993.37,17,-0.005,2021,7,1119
+ApexGroup,Security,Series B,Myanmar,Downturn,Office,182,5,236,29.5,53.26,12,0.051,2022,4,31
+NexusSolutions,Infrastructure,Series D,Vietnam,Recession,Office,420,10,88,136.9,105.32,19,-0.007,2023,3,58
+ApexDynamics,Aerospace,Series G,Kenya,Recovery,Remote,1480,16,152,698.7,234.33,14,-0.022,2021,8,255
+NexusVentures,Finance,Series E,Bulgaria,Stable,Office,686,10,206,260.3,138.45,12,0.006,2023,12,220
+GlobalCorp,Security,Unknown,Poland,Downturn,Hybrid,881,9,84,81.8,240.58,11,0.013,2022,11,299
+GlobalVentures,Logistics,Post-IPO,Russia,Recovery,Hybrid,6587,44,149,2987.6,2441.07,16,0.016,2024,7,2002
+Tropic,Consumer,Series I,Czech Republic,Stable,Hybrid,1844,10,31,1161.5,380.35,11,-0.033,2020,1,452
+CloudLabs,Hardware,Series I,Poland,Recovery,Remote,1907,21,84,1021.8,845.39,13,-0.042,2024,8,712
+Vibrent Health,Food,Unknown,India,Recession,Office,1198,15,180,40.4,294.18,20,0.077,2020,12,136
+CloudSolutions,Sales,Seed,Lithuania,Recovery,Hybrid,29,3,226,2.7,6.15,17,-0.041,2021,3,3
+CloudCorp,Fitness,Unknown,Ukraine,Stable,Hybrid,976,10,114,56.1,199.77,16,-0.071,2024,1,71
+Briza,Travel,Series I,Colombia,Recession,Remote,1956,20,24,1983.8,444.56,15,-0.011,2023,1,366
+DataDynamics,Finance,Series I,Pakistan,Recovery,Remote,1796,14,116,1685.7,572.57,10,-0.131,2021,5,121
+AIVentures,Retail,Series H,Thailand,Recession,Office,1315,14,12,1068.1,294.03,20,0.017,2023,6,198
+Homeday,Sales,Post-IPO,United Kingdom,Growth,Remote,8043,48,136,1538.2,2313.34,17,-0.015,2021,10,643
+AILabs,Travel,Post-IPO,Saudi Arabia,Recovery,Hybrid,8359,23,186,2956.1,2089.69,15,0,2024,7,905
+GlobalCorp,Marketing,Subsidiary,Netherlands,Recession,Hybrid,2090,28,5,1076.2,564.84,16,0.019,2020,7,401
+NexusTechnologies,Crypto,Series B,Colombia,Recovery,Remote,175,6,24,26.3,38.26,16,-0.029,2021,5,18
+GumGum,AI,Series I,Portugal,Downturn,Office,1655,17,123,1511.1,327.85,15,-0.043,2022,4,256
+GlobalSystems,Data,Series C,Cayman Islands,Recession,Office,230,5,40,74.7,62.6,12,0.027,2023,6,43
+CloudCorp,Marketing,Seed,Lithuania,Recession,Hybrid,45,2,226,2.3,10.65,11,-0.068,2020,11,4
+DataTechnologies,Product,Series E,Belgium,Recession,Office,1045,7,32,282.3,256.78,19,0.002,2020,11,131
+DigitalLabs,Sales,Series G,United Arab Emirates,Recovery,Hybrid,1368,11,63,638.9,320.41,12,-0.051,2021,2,446
+CloudGroup,Logistics,Acquired,Germany,Recovery,Hybrid,2234,17,86,533.6,620.45,10,0.037,2024,11,714
+NexusSolutions,Energy,Series D,Italy,Downturn,Hybrid,515,10,142,151.3,77.35,19,0.001,2022,4,149
+TechVentures,Logistics,Unknown,Germany,Recovery,Hybrid,941,13,227,83.6,276.38,15,-0.019,2024,7,98
+CloudLabs,Education,Acquired,Norway,Recovery,Office,1439,20,194,294.2,358.97,9,0.017,2024,9,325
+Vice Media,Product,Post-IPO,Malaysia,Recovery,Remote,8065,39,113,2402.2,1034.06,14,-0.067,2021,5,1594
+ApexDynamics,Product,Private Equity,Peru,Downturn,Hybrid,6774,27,121,1243.4,1828.31,11,0.018,2022,11,749
+GloriFi,Manufacturing,Series I,Lithuania,Recovery,Remote,1610,12,226,931.8,694.71,12,-0.015,2021,4,425
+DigitalInnovations,HR,Acquired,Peru,Downturn,Hybrid,3211,3,121,789.9,1376.13,20,-0.032,2022,5,899
+Kyndryl,Sales,Series F,Turkey,Growth,Remote,887,13,99,458,121.15,14,0.031,2021,9,92
+Rewind,Transportation,Subsidiary,Pakistan,Recession,Office,4469,3,116,1016.9,1221.13,9,0.076,2023,4,1374
+NexusGroup,Sales,Series H,Vietnam,Recession,Hybrid,1942,13,91,1082.2,796.12,15,-0.02,2023,9,600
+Lawgeex,Travel,Unknown,Estonia,Stable,Office,1013,20,213,56.9,266.24,11,0.075,2022,1,332
+Copia,Energy,Post-IPO,United Arab Emirates,Recession,Office,7487,24,63,2579.7,1747.67,18,-0.016,2023,4,1339
+DigitalSystems,Food,Series F,Pakistan,Downturn,Hybrid,1063,8,106,458,337.92,10,0.015,2022,5,314
+QuantumLabs,Healthcare,Unknown,Belgium,Recession,Remote,840,1,32,43.4,240.99,12,0,2023,8,281
+Intapp,Other,Series G,Egypt,Growth,Office,1220,14,37,489.2,396.67,19,-0.069,2021,11,356
+NexusInnovations,Energy,Subsidiary,Vietnam,Downturn,Office,5174,41,91,1097,767.35,16,-0.027,2022,12,457
+Glints,Data,Subsidiary,Argentina,Recovery,Office,4184,42,35,473.8,1298.07,16,0.013,2021,6,768
+DigitalLabs,Finance,Post-IPO,Hungary,Recovery,Office,10966,36,34,4121,3263.4,16,-0.049,2024,8,1316
+DigitalGroup,Transportation,Series A,Hungary,Recession,Office,96,3,34,5.5,17.42,19,0.051,2023,8,23
+DigitalDynamics,Product,Series E,Poland,Stable,Office,734,7,112,285.1,151.93,18,-0.017,2024,1,232
+QuantumLabs,Sales,Post-IPO,Poland,Recession,Hybrid,8724,38,84,2529.7,3091.36,11,-0.024,2023,6,1552
+DataDynamics,Logistics,Series F,Peru,Recession,Remote,878,13,121,502.7,280.83,9,0.004,2023,3,183
+LiveVox,Crypto,Subsidiary,Australia,Stable,Office,2023,4,138,702.1,888.37,15,-0.068,2022,3,467
+Arkane Studios,Media,Series G,Hungary,Recovery,Office,1486,10,34,863.2,454.04,7,-0.057,2024,5,300
+TechTechnologies,Manufacturing,Series J,Hong Kong,Recession,Hybrid,1902,19,92,1560.6,716.95,12,0.029,2023,4,417
+ApexDynamics,Sales,Series A,Peru,Downturn,Office,96,3,121,6.9,28.18,20,0.059,2022,11,16
+DigitalLabs,Transportation,Series H,Philippines,Recession,Remote,1916,12,137,1137.9,379.56,12,0.035,2023,9,738
+Better Therapeutics,Support,Seed,Vietnam,Recovery,Hybrid,37,2,91,3.4,12.73,9,0.013,2024,8,12
+DigitalDynamics,Fitness,Series G,Canada,Recovery,Hybrid,1428,14,73,826.5,371.25,13,0.054,2024,11,357
+ApexGroup,Consumer,Series D,Colombia,Recovery,Remote,433,8,24,109.7,113.31,17,-0.006,2021,6,68
+TechCorp,Aerospace,Private Equity,Turkey,Recession,Hybrid,4096,39,99,655,1133.6,7,-0.004,2023,5,1072
+CloudCorp,Manufacturing,Subsidiary,Bulgaria,Recovery,Office,6931,15,206,637.1,1480.44,15,0.053,2024,8,1082
+DigitalDynamics,HR,Series A,Indonesia,Recession,Office,117,3,101,13.8,47.89,9,-0.066,2023,3,32
+GlobalLabs,Consumer,Private Equity,Ireland,Recovery,Remote,8209,15,54,1301.9,3053.19,9,0.039,2021,2,2558
+SmartGroup,Sales,Subsidiary,South Korea,Recession,Office,3563,15,202,1281.2,950.42,17,0.041,2023,8,742
+DigitalTechnologies,Manufacturing,Seed,Uruguay,Stable,Office,17,1,147,2.1,4.02,14,-0.046,2020,2,1
+Albert,Infrastructure,Private Equity,Lithuania,Recession,Office,6504,30,226,873,1572.3,13,-0.06,2020,6,1025
+ApexSolutions,Hardware,Series F,Poland,Recovery,Hybrid,1094,7,84,443.3,231.07,12,-0.033,2021,5,108
+SmartInc,Security,Series H,Bulgaria,Recession,Hybrid,1804,13,206,1231.6,462.83,15,-0.03,2023,4,311
+HomeLight,Logistics,Series C,Ireland,Downturn,Hybrid,469,4,64,57.1,68.9,12,0.05,2022,7,127
+DataTechnologies,Retail,Subsidiary,Seychelles,Recovery,Office,4730,35,15,601.8,857.89,11,-0.026,2024,11,852
+ApexGroup,Recruiting,Acquired,Austria,Recession,Hybrid,3154,7,225,758.6,1151.75,6,-0.008,2023,7,761
+SmartLabs,Product,Series E,Ukraine,Recovery,Hybrid,745,9,114,285.2,329.67,11,0,2024,10,279
+TIFIN,HR,Series C,Bahrain,Recession,Office,225,6,135,68,94.49,10,0.026,2020,4,39
+ApexVentures,Manufacturing,Series H,South Korea,Recession,Office,2000,17,202,798.9,494.5,15,0.047,2020,7,214
+SmartSolutions,Recruiting,Subsidiary,Brazil,Recovery,Hybrid,4275,6,177,617.3,1266.21,22,0.017,2021,6,695
+QuantumInc,Security,Series A,Nigeria,Recession,Office,128,4,115,8.7,34.57,9,0.056,2023,7,34
+DigitalGroup,Sales,Post-IPO,Indonesia,Downturn,Office,10525,20,101,1323.8,4734.91,15,0.021,2022,4,1492
+Redox,Retail,Subsidiary,Luxembourg,Downturn,Hybrid,4570,48,130,886.4,1008.69,16,-0.044,2022,9,613
+Virgio,HR,Series H,Myanmar,Recession,Hybrid,1723,11,236,1177.6,601.14,13,0.045,2023,4,243
+SmartTechnologies,Media,Unknown,Bulgaria,Recession,Office,624,14,206,53,202.91,17,0.054,2020,4,67
+Kleos Space,Finance,Series J,Indonesia,Recovery,Hybrid,2593,15,101,1713.9,455.05,11,-0.094,2024,6,792
+QuantumGroup,Healthcare,Series D,Japan,Recession,Office,504,7,217,115.5,220.13,8,0.064,2023,9,174
+SmartVentures,Legal,Series G,Cayman Islands,Downturn,Remote,1550,15,40,886.1,676.77,11,-0.038,2022,6,162
+Group Nine Media,Real Estate,Series E,Colombia,Recession,Office,832,10,24,246.3,270.91,11,0.021,2020,10,239
+SEND,Healthcare,Series I,Indonesia,Recovery,Remote,2153,11,101,1492.7,723.17,22,-0.014,2021,6,290
+DataVentures,Crypto,Series F,South Africa,Downturn,Office,1223,12,39,438.6,175.71,15,-0.035,2022,7,217
+Doma,HR,Subsidiary,Poland,Recession,Hybrid,6464,50,112,757.6,1578.62,10,-0.065,2023,6,1581
+Unbounce,Aerospace,Private Equity,Colombia,Recession,Office,7390,23,24,947.9,1362.58,7,0.013,2020,8,1602
+TechTechnologies,Legal,Unknown,Hungary,Recovery,Hybrid,1273,7,34,77.4,474.14,18,-0.047,2024,5,186
+Konfio,Energy,Series B,Vietnam,Stable,Hybrid,205,4,88,21,36.58,18,0.011,2020,2,31
+Hyperloop One,Food,Series B,Japan,Recession,Office,226,3,217,26.5,54.11,13,0.034,2020,6,56
+Freenome,Consumer,Series B,Chile,Recession,Office,203,7,197,26.8,61.66,18,-0.016,2020,6,58
+Trax,Food,Series C,Myanmar,Recovery,Remote,309,6,236,88.3,63.8,11,0.061,2024,10,31
+Clever Real Estate,Other,Subsidiary,Luxembourg,Growth,Remote,2266,40,130,1146,752.66,11,0.035,2021,11,579
+TechGroup,Manufacturing,Post-IPO,Turkey,Recession,Remote,7762,10,99,2459.5,1909.89,10,-0.065,2023,9,847
+TechSolutions,Marketing,Private Equity,Argentina,Downturn,Office,1829,20,35,1516.3,327.73,10,0.024,2022,8,594
+NexusDynamics,HR,Private Equity,Brazil,Recovery,Hybrid,5411,16,74,1228.7,888.01,10,0.001,2021,5,1491
+NexusCorp,Infrastructure,Acquired,Switzerland,Recovery,Hybrid,3542,26,239,469.1,822.89,16,-0.062,2024,8,769
+AIInc,Transportation,Series H,Turkey,Recovery,Hybrid,2357,19,99,1097.1,574.57,15,0.028,2021,8,562
+Marketforce,Marketing,Acquired,Thailand,Recession,Remote,3823,7,12,506.6,1517.88,21,0.008,2020,4,1101
+QuantumVentures,Legal,Series B,Sweden,Recovery,Remote,267,6,211,32.7,65.39,18,-0.065,2024,9,42
+Avocargo,Media,Series J,Luxembourg,Recession,Office,2670,16,130,1786.2,948.28,13,-0.033,2020,8,767
+Merama,Infrastructure,Series C,Uruguay,Recovery,Remote,380,8,147,66.7,61.53,16,-0.025,2021,5,128
+CloudLabs,Data,Subsidiary,Germany,Recovery,Remote,6104,1,20,942.4,1507.65,14,-0.036,2021,6,1423
+GlobalTechnologies,Crypto,Series F,Norway,Recovery,Hybrid,896,11,77,336.7,182.34,6,-0.029,2021,7,313
+CrowdStreet,Construction,Seed,Japan,Recession,Hybrid,28,3,217,2.5,8.14,11,-0.023,2020,11,5
+Lytics,Healthcare,Acquired,Israel,Recession,Hybrid,2618,25,187,485.2,930.71,14,0.047,2023,5,1015
+CloudDynamics,Construction,Subsidiary,Indonesia,Recession,Office,4534,7,101,836.9,1091.69,15,-0.018,2023,5,731
+GlobalSolutions,Product,Subsidiary,Malaysia,Recession,Office,1166,2,113,350.7,282.13,9,0.01,2020,10,240
+ApexInnovations,Data,Subsidiary,Portugal,Recession,Hybrid,3637,47,51,777.4,826.99,11,0.024,2023,7,1312
+NexusSystems,Aerospace,Series F,United Arab Emirates,Stable,Hybrid,680,13,63,258.6,106.6,11,0.01,2022,2,143
+QuantumDynamics,Product,Series A,Lithuania,Downturn,Hybrid,76,2,226,10.6,14.43,11,-0.002,2022,10,13
+Fipola,Infrastructure,Seed,Belgium,Recovery,Remote,24,3,32,3.7,4.53,15,-0.025,2021,7,5
+Bittrex,Construction,Series D,Belgium,Recession,Hybrid,626,8,32,166.3,177.83,15,-0.016,2020,6,196
+Singular Genomics,Energy,Series H,China,Stable,Office,2027,11,163,1039,609.95,19,-0.03,2020,2,455
+TechCorp,Travel,Series G,Cayman Islands,Recession,Office,1646,15,40,742.1,389,11,0.002,2023,6,341
+SmartTechnologies,Travel,Series H,Italy,Recession,Hybrid,1937,17,142,1223.1,670.93,22,-0.045,2023,8,265
+Spreetail,Travel,Series H,Brazil,Recession,Hybrid,2089,17,104,656.4,664.38,15,0.031,2023,3,592
+BioMarin,Sales,Series C,Singapore,Recession,Hybrid,335,7,205,64.6,74.19,16,-0.038,2020,5,55
+DigitalDynamics,Marketing,Series G,Brazil,Downturn,Office,1409,9,56,546,474.23,9,-0.04,2022,9,383
+NexusVentures,Transportation,Post-IPO,United States,Recession,Hybrid,8362,24,14,3502.4,2536.03,10,0.028,2020,7,964
+GlobalCorp,Security,Post-IPO,Singapore,Recovery,Remote,8430,48,205,2118.2,2877.02,15,-0.042,2024,10,1972
+Pear Therapeutics,Sales,Private Equity,Canada,Downturn,Hybrid,2735,37,218,729.7,1061.2,10,0.006,2022,6,743
+Tapas Media,Aerospace,Series I,Uruguay,Recovery,Hybrid,1847,11,147,1643,383.78,10,-0.039,2021,6,284
+Matterport,Retail,Subsidiary,Australia,Stable,Hybrid,4975,19,212,949.8,1365.35,10,-0.017,2020,1,1177
+Cameo,Security,Series D,Ghana,Growth,Hybrid,611,7,1,121.3,182.16,11,-0.057,2021,9,76
+PACT Pharma,Product,Series A,Greece,Recession,Hybrid,93,5,7,12.3,27.91,9,0.007,2020,8,11
+GlobalSystems,Fitness,Series B,Estonia,Stable,Hybrid,140,3,213,36.3,50.32,15,-0.022,2024,1,25
+ApexSolutions,Consumer,Series E,Romania,Recovery,Hybrid,1086,8,50,216.1,400.82,12,-0.044,2024,5,211
+TechSolutions,Transportation,Subsidiary,Thailand,Recovery,Hybrid,3262,46,12,838.1,771.68,20,0.029,2021,5,623
+SmartSolutions,Healthcare,Series I,Estonia,Recovery,Remote,2548,19,213,1293.7,587.1,19,0.041,2021,7,766
+AIGroup,Recruiting,Series J,Spain,Stable,Remote,2380,16,13,2244.5,528.62,14,-0.053,2023,10,514
+GlobalDynamics,Hardware,Series D,Argentina,Recovery,Hybrid,541,6,35,141.8,114.33,9,0.002,2024,5,51
+QuantumLabs,HR,Series A,Germany,Growth,Office,79,5,107,13.9,23.49,14,0.052,2021,11,30
+NexusDynamics,Construction,Private Equity,Egypt,Recovery,Remote,5928,34,37,1642.6,994.87,12,-0.025,2024,5,550
+OKCredit,Manufacturing,Series E,Senegal,Stable,Hybrid,1061,9,57,382.2,385.02,10,0.029,2020,2,250
+QuantumSystems,Recruiting,Series C,Spain,Recession,Remote,290,9,13,67.3,92.75,14,-0.04,2023,7,74
+YouTube,Food,Series F,Czech Republic,Recession,Office,800,7,31,476.9,229.03,21,0.07,2020,8,70
+QuantumInc,Logistics,Post-IPO,Mexico,Recovery,Remote,8470,29,140,1154.2,1936.43,17,0.061,2021,5,1336
+ZenLedger,Energy,Subsidiary,Denmark,Stable,Hybrid,3122,49,53,521.2,979.91,18,-0.045,2020,1,615
+DigitalSolutions,Product,Private Equity,Egypt,Recovery,Remote,6695,27,37,758.5,3244.87,10,-0.009,2021,8,1419
+TechInc,Finance,Series A,Senegal,Recession,Office,82,4,57,13.4,22.29,16,-0.033,2020,5,25
+Pegasystems,Real Estate,Subsidiary,India,Recession,Hybrid,2549,24,157,960.8,656.38,15,-0.141,2023,6,744
+NexusVentures,HR,Series C,South Korea,Recovery,Hybrid,363,5,202,90,55.21,6,-0.067,2021,5,72
+DataDynamics,AI,Series G,Vietnam,Recovery,Hybrid,992,9,88,719.1,371.19,10,-0.013,2024,11,168
+DataLabs,Education,Private Equity,Mexico,Recession,Office,5269,26,146,1026.5,1307.04,12,-0.025,2020,8,1502
+StreetBees,Hardware,Series B,United States,Recovery,Hybrid,234,5,143,29.2,47.05,10,-0.009,2024,9,44
+QuantumCorp,Support,Series G,Israel,Recession,Office,1695,15,103,605.3,259.16,12,0.012,2020,5,109
+TechGroup,Hardware,Unknown,Pakistan,Downturn,Hybrid,187,2,106,63.3,51.01,16,-0.027,2022,9,29
+Secfi,Education,Subsidiary,Estonia,Downturn,Remote,2253,46,213,664.8,306.11,16,-0.045,2022,8,190
+DigitalVentures,Infrastructure,Subsidiary,Finland,Recovery,Remote,4561,29,70,513.5,1638.94,16,0.02,2021,8,551
+AIInc,Support,Series C,United States,Stable,Remote,302,5,201,52.9,91.8,15,0.049,2023,11,84
+Kitopi,Construction,Series J,Australia,Recession,Hybrid,1944,19,212,1734.6,569.55,13,-0.006,2023,9,344
+ApexSystems,Energy,Series C,Poland,Recovery,Office,374,8,125,88.1,135.43,22,-0.027,2021,4,107
+QuantumTechnologies,Marketing,Post-IPO,Chile,Recession,Hybrid,2411,27,197,2028.6,617.93,18,0.009,2023,9,590
+AITechnologies,Security,Series C,Egypt,Recovery,Remote,182,5,37,72.1,31.11,10,-0.01,2021,5,39
+QuantumSolutions,Fitness,Series J,Egypt,Recovery,Office,2399,22,37,1248.6,289.94,22,-0.008,2024,12,485
+NexusSystems,Logistics,Post-IPO,Seychelles,Downturn,Hybrid,4451,12,15,3256.5,1457.41,13,0.018,2022,6,608
+GlobalInc,Media,Series E,Malaysia,Recovery,Hybrid,824,12,113,245.4,289.38,18,0.02,2024,3,110
+ApexInnovations,Healthcare,Private Equity,Brazil,Recession,Office,5034,36,17,276.5,1652.5,14,0.035,2023,9,1347
+CloudLabs,Legal,Series B,Seychelles,Recession,Office,183,4,163,26.8,49.42,7,-0.012,2020,8,16
+NexusSystems,Travel,Subsidiary,Egypt,Recession,Hybrid,2116,46,37,586,684.59,18,0.024,2023,4,289
+GoTo,Product,Series I,United States,Recession,Office,2150,20,201,1525.5,426.71,10,0.05,2020,11,492
+DigitalInc,Data,Series I,United Kingdom,Recession,Remote,2519,13,46,1096.7,654.06,9,-0.042,2020,6,512
+GlobalInc,Transportation,Subsidiary,Australia,Recession,Remote,1549,30,212,1166.7,378.75,9,0.067,2023,3,467
+CloudInc,Other,Series I,Uruguay,Recovery,Hybrid,2179,14,147,1434.7,940.52,18,0.049,2021,4,541
+CloudSystems,Real Estate,Series J,Russia,Recession,Remote,2690,12,149,1995.7,532.27,7,0.027,2023,2,331
+DigitalTechnologies,Food,Series D,Lithuania,Recovery,Hybrid,566,5,226,174.4,125.48,11,0.048,2024,5,116
+SmartCorp,Education,Series J,Bulgaria,Recovery,Hybrid,2365,17,206,1737.1,607.04,13,0.075,2024,9,340
+CloudTechnologies,Crypto,Series G,Australia,Recovery,Remote,1236,13,212,747.3,384.4,13,-0.08,2021,3,170
+CloudInc,HR,Series I,Spain,Downturn,Office,1797,13,13,1525.9,715.25,18,-0.06,2022,9,232
+Ledn,Education,Series G,Argentina,Recovery,Hybrid,1388,9,35,832.3,638.21,11,-0.073,2024,3,329
+NexusLabs,Manufacturing,Private Equity,Ukraine,Recession,Office,3696,9,114,1532.6,1460.91,21,-0.095,2020,9,433
+Twine Solutions ,Legal,Seed,Spain,Recovery,Remote,18,1,13,2.3,6.5,10,-0.024,2021,3,3
+LoopMe,Crypto,Unknown,Argentina,Recovery,Remote,607,2,35,67.6,150.42,13,-0.069,2021,4,178
+Lendingkart,Finance,Series B,Mexico,Recession,Office,266,5,146,22.6,120.45,17,-0.04,2020,4,27
+GlobalInc,Consumer,Seed,Ireland,Stable,Office,28,3,64,2.3,9.74,12,0.048,2023,10,5
+Qualcomm,Hardware,Series H,Switzerland,Recession,Remote,1375,10,208,926.1,169.25,7,0.04,2023,9,297
+GOAT Group,Recruiting,Series E,Mexico,Downturn,Remote,636,11,82,324.5,160.65,15,-0.067,2022,12,133
+Incredibuild,Media,Private Equity,Kenya,Recession,Hybrid,7124,21,152,1270.8,1532.81,7,-0.017,2020,9,1384
+QuantumSystems,Consumer,Series I,Japan,Recession,Office,2644,20,217,1896.1,1027.44,13,-0.027,2023,4,699
+QuantumInc,AI,Series E,United Arab Emirates,Downturn,Office,519,13,63,248.3,145.33,12,-0.007,2022,12,81
+AIDynamics,Data,Subsidiary,United Arab Emirates,Recession,Hybrid,4871,10,63,232.1,1937.33,16,-0.03,2020,4,349
+QuantumCorp,Infrastructure,Series J,Pakistan,Recovery,Hybrid,2368,13,106,2097.7,933.52,13,0.018,2024,10,751
+DSCO,Recruiting,Subsidiary,Egypt,Recovery,Hybrid,5255,38,37,525.7,1295.77,19,0.006,2024,7,1151
+Sanar,Transportation,Series I,Cayman Islands,Recession,Hybrid,1827,10,40,1189.7,518.43,19,0.082,2023,1,608
+DigitalInnovations,Construction,Series C,Ghana,Recession,Office,296,4,1,80.3,92.9,15,0.042,2020,10,43
+AIInc,Unknown,Series A,China,Recovery,Remote,38,3,163,9.5,12.23,18,0.002,2021,1,5
+DigitalTechnologies,Healthcare,Series B,Denmark,Recovery,Remote,178,4,53,20.3,44.98,14,0.058,2024,11,44
+DataVentures,Food,Seed,Mexico,Recovery,Hybrid,34,1,146,2.7,4.44,8,0.056,2024,10,7
+DataInnovations,Security,Series D,Egypt,Downturn,Office,405,5,37,93.7,98.16,8,-0.081,2022,4,29
+ApexDynamics,Other,Series C,Colombia,Recession,Office,336,4,24,67,90.92,16,-0.024,2020,5,61
+Pulse Secure,Retail,Series I,Saudi Arabia,Recession,Office,1219,13,186,1458.6,437.38,21,-0.01,2020,5,328
+Shippo,Marketing,Seed,Singapore,Recovery,Remote,27,2,205,3.5,8.82,16,0.024,2021,5,4
+DigitalInnovations,Other,Post-IPO,United States,Stable,Office,4223,29,196,2309.7,1335.68,12,0.011,2020,1,1378
+Apartment List,Security,Series D,Singapore,Downturn,Hybrid,607,10,205,135.9,97.29,15,0.015,2022,6,118
+DigitalInnovations,Media,Series D,Belgium,Recovery,Remote,515,7,79,169.7,201.22,14,-0.056,2021,4,164
+GlobalSystems,Finance,Series B,Singapore,Recession,Remote,107,5,205,37.3,15.93,23,-0.065,2023,5,24
+ApexTechnologies,Consumer,Series F,New Zealand,Recession,Hybrid,1012,10,9,493.1,337.87,14,0.022,2020,10,97
+SWVL,Security,Private Equity,France,Growth,Office,1536,32,219,870.1,302.45,11,0.066,2021,11,142
+DigitalSystems,Crypto,Private Equity,Russia,Recovery,Remote,1129,31,149,1170.9,333.88,10,-0.053,2021,6,65
+DigitalCorp,Education,Series I,Germany,Recession,Hybrid,1455,16,107,1408,630.21,11,-0.029,2023,5,368
+AITechnologies,Logistics,Series F,Saudi Arabia,Recovery,Hybrid,1169,13,186,311,235.6,12,-0.042,2024,5,158
+Vendease,AI,Series H,Philippines,Recovery,Remote,1888,16,137,1067.4,281.58,11,-0.064,2021,7,340
+AIInnovations,Food,Acquired,United States,Recession,Hybrid,2991,18,18,492.5,1175.32,15,0.029,2020,4,311
+Bukalapak,Real Estate,Series E,South Africa,Recession,Hybrid,1002,10,39,322.9,186.38,18,-0.046,2020,4,103
+Yapily,Education,Series F,Myanmar,Recovery,Remote,1086,12,236,423.6,358.01,15,-0.013,2021,3,398
+NexusSystems,Recruiting,Subsidiary,China,Stable,Office,3422,19,235,1283.2,917.89,22,0.024,2023,12,1012
+AISolutions,Transportation,Series C,Luxembourg,Recession,Hybrid,358,4,130,58.3,107.12,19,0.047,2023,4,54
+Intuit,Fitness,Series I,Egypt,Recovery,Hybrid,1615,17,37,950.9,260.85,17,-0.073,2024,6,184
+DataTechnologies,Data,Private Equity,Nigeria,Stable,Office,2117,30,115,1471.7,581.76,15,-0.021,2022,3,424
+NexusVentures,AI,Seed,Saudi Arabia,Growth,Hybrid,32,3,186,3.5,8.32,9,-0.015,2021,12,2
+Indeed,Travel,Series C,South Korea,Recession,Hybrid,251,7,202,65.9,111.53,17,0.066,2020,6,46
+NexusGroup,Real Estate,Seed,Seychelles,Recovery,Remote,39,2,224,1.8,11.32,12,0.034,2021,7,6
+Practically,Logistics,Unknown,Cayman Islands,Recession,Hybrid,1305,19,40,56.7,446.85,16,-0.069,2020,7,179
+ApexCorp,Aerospace,Series C,Norway,Downturn,Office,349,6,77,58,68.44,19,0.017,2022,7,113
+NexusTechnologies,Education,Series G,Philippines,Downturn,Hybrid,1451,12,137,707.2,283.29,14,-0.023,2022,8,266
+NexusSolutions,Legal,Series F,Chile,Growth,Remote,1139,14,197,454.5,255.34,12,0.01,2021,12,288
+AIGroup,Aerospace,Series C,Ukraine,Recession,Office,245,4,114,79.7,92.73,12,-0.003,2020,11,89
+Kevin,Energy,Post-IPO,Ireland,Recession,Hybrid,14030,39,64,2569.7,5852.1,18,-0.038,2023,6,4169
+DigitalLabs,Food,Seed,Finland,Stable,Hybrid,39,2,90,4.5,14.53,10,0.084,2023,11,10
+DigitalSolutions,Recruiting,Private Equity,Bulgaria,Recession,Office,4264,19,206,755.9,1095.39,15,0.022,2020,10,562
+QuantumInnovations,Recruiting,Series G,Czech Republic,Recovery,Hybrid,1428,16,178,658.5,460.37,10,0.025,2024,3,196
+TechTechnologies,HR,Series F,Germany,Recession,Office,1049,10,76,448.8,368.81,9,0.012,2020,3,310
+Borrowell,Sales,Private Equity,Chile,Recession,Office,8562,23,197,997,1973.93,9,0.002,2020,8,1416
+TechGroup,Infrastructure,Series G,Romania,Recovery,Hybrid,1382,10,50,922.3,643.3,12,0.025,2024,4,203
+DataInnovations,Construction,Series I,Egypt,Recession,Office,2174,11,37,1421.3,424.35,11,-0.042,2020,11,424
+QuantumInc,Energy,Unknown,Philippines,Recession,Office,514,19,137,23.7,146.43,13,0.005,2020,5,91
+NexusTechnologies,Real Estate,Seed,Seychelles,Stable,Hybrid,30,3,163,2.3,8.39,18,-0.132,2024,2,6
+QuantumLabs,Marketing,Seed,China,Recovery,Hybrid,35,2,235,3.1,7.22,14,-0.016,2024,3,6
+TechSolutions,Unknown,Series D,Japan,Downturn,Office,541,9,217,110.7,87.01,23,-0.027,2022,9,81
+QuantumDynamics,Data,Series A,Estonia,Recovery,Hybrid,83,5,213,9.9,26.42,11,-0.004,2021,7,9
+CloudLabs,Crypto,Series E,Israel,Recession,Office,833,11,182,341.8,275.76,15,-0.05,2020,9,222
+TechSystems,Other,Private Equity,South Korea,Recovery,Hybrid,5623,33,202,885.1,1946.47,7,-0.055,2024,8,650
+Nativo,Travel,Series B,Pakistan,Downturn,Hybrid,201,7,116,28.5,33.61,20,-0.008,2022,10,32
+Ibotta,Food,Series I,Netherlands,Recovery,Remote,2181,21,222,1114.3,789.02,13,-0.021,2021,6,689
+ApexSolutions,Product,Series F,India,Recovery,Hybrid,1173,14,83,441.3,156.19,11,-0.002,2021,2,227
+DigitalSolutions,Security,Private Equity,Chile,Stable,Office,6245,8,197,1086.7,3040.34,8,-0.026,2020,2,1015
+QuantumDynamics,Logistics,Series A,Sweden,Downturn,Hybrid,115,3,133,8.5,22.71,13,0.032,2022,5,24
+OutSystems,Consumer,Subsidiary,Singapore,Growth,Hybrid,1420,13,205,1119,403.27,13,-0.045,2021,9,289
+TechSystems,AI,Series F,Canada,Recovery,Hybrid,910,12,230,586.8,178.38,18,-0.011,2021,6,155
+TechInnovations,Crypto,Series E,Netherlands,Recovery,Hybrid,844,11,5,271,175.16,15,-0.109,2024,4,313
+AITechnologies,Healthcare,Series A,Saudi Arabia,Recession,Hybrid,84,4,186,13,32.38,12,-0.006,2023,7,19
+Voly,Retail,Series B,Australia,Recovery,Hybrid,172,6,212,31.6,32.97,15,-0.083,2024,7,32
+dbt Labs,AI,Acquired,Australia,Stable,Hybrid,2251,30,138,369,339.73,12,0.011,2024,1,374
+GlobalTechnologies,AI,Series A,Egypt,Recession,Hybrid,60,4,37,9.1,17.89,13,0.011,2023,4,10
+DigitalInc,Media,Subsidiary,South Korea,Recovery,Office,6008,2,202,454.2,1640.49,13,-0.013,2024,4,1794
+AIDynamics,Sales,Acquired,Spain,Recovery,Hybrid,2454,19,132,598.2,677.24,19,0.009,2024,9,398
+Starship Technologies,Product,Series I,Belgium,Downturn,Office,2023,17,79,1204.1,605.2,15,-0.006,2022,4,480
+Textio,Hardware,Unknown,United Arab Emirates,Recession,Hybrid,1053,2,63,25.8,265.78,12,0.027,2020,12,190
+QuantumVentures,Security,Series F,Turkey,Stable,Hybrid,859,13,99,427.4,183.26,14,-0.029,2022,3,128
+CloudTechnologies,Construction,Series D,Cayman Islands,Recovery,Hybrid,537,8,40,91.1,256.61,10,0.049,2024,6,119
+CloudInc,Hardware,Seed,Austria,Recession,Remote,23,1,225,3.3,4.8,19,-0.013,2020,8,3
+SmartCorp,Real Estate,Acquired,Lithuania,Recovery,Hybrid,4336,8,226,494.9,1875.9,10,-0.078,2024,7,1548
+QuantumVentures,Product,Series A,Nigeria,Recovery,Remote,134,4,115,8,39.34,13,-0.043,2024,10,30
+SmartSystems,Data,Private Equity,Netherlands,Recession,Remote,3744,21,222,1012.1,1410.45,19,0.019,2020,3,979
+CloudLabs,Legal,Series I,Sweden,Recovery,Remote,2586,13,133,1528.9,616.05,15,-0.046,2024,12,734
+GlobalLabs,Recruiting,Post-IPO,Turkey,Downturn,Hybrid,6228,11,99,968.1,2121.71,8,0,2022,5,937
+Pipl,Logistics,Series J,Philippines,Downturn,Office,2590,12,137,2068.8,850.84,12,0.016,2022,8,615
+DigitalSolutions,Consumer,Series F,Canada,Recession,Hybrid,1044,14,169,402.8,248.86,19,-0.061,2023,8,233
+QuantumSystems,Manufacturing,Unknown,Hong Kong,Recovery,Hybrid,645,16,92,38,267.01,10,0.047,2024,6,141
+NexusCorp,Infrastructure,Series E,Germany,Growth,Remote,614,9,44,265.6,187.76,10,0.049,2021,11,124
+Shef,Consumer,Subsidiary,Austria,Recession,Office,6137,8,122,418.4,1502.87,17,-0.059,2020,7,943
+Cowbell,Media,Series J,Portugal,Downturn,Hybrid,2622,17,123,1274.5,1139.23,19,0.002,2022,6,936
+NexusSystems,HR,Series I,Myanmar,Recession,Office,1820,15,236,1146.2,746.83,15,0.044,2023,3,670
+GlobalLabs,HR,Series I,Austria,Recovery,Hybrid,1497,15,225,1500,378.01,15,-0.016,2024,12,389
+DataCorp,Retail,Post-IPO,Canada,Downturn,Remote,12187,20,223,1889.5,3127.27,7,0.056,2022,4,2430
+TechCorp,Support,Series B,Argentina,Downturn,Hybrid,147,3,35,25.6,34.04,17,0.029,2022,11,22
+SmartInnovations,Aerospace,Post-IPO,Argentina,Recovery,Hybrid,6130,13,35,1441.1,2459.12,11,0.004,2021,2,2225
+ApexSystems,Construction,Private Equity,Argentina,Stable,Remote,5989,6,35,826.7,1561.3,17,0.019,2023,11,852
+Addi,HR,Acquired,Uruguay,Recession,Hybrid,1769,16,147,283.9,293.57,19,0.056,2023,7,259
+GlobalInc,Support,Series D,Estonia,Recovery,Office,564,11,213,125.6,177.51,14,-0.055,2021,3,163
+GlobalInc,Education,Series D,Norway,Downturn,Hybrid,728,9,194,97.8,197.5,22,0.001,2022,8,154
+QuantumVentures,Energy,Unknown,Portugal,Recession,Hybrid,959,4,123,81.1,232.24,14,0.039,2020,7,169
+SmartDynamics,Support,Acquired,Thailand,Recovery,Hybrid,3311,18,12,610.2,995.38,15,-0.074,2024,10,605
+DataInnovations,Consumer,Subsidiary,Italy,Stable,Remote,2993,45,142,634.9,838.74,9,0.05,2022,1,498
+DataInnovations,Infrastructure,Series G,South Africa,Stable,Remote,1454,12,39,424.6,390.44,14,0.006,2022,3,456
+NexusInc,Hardware,Series B,Hong Kong,Recovery,Office,199,4,92,30.4,51.13,7,-0.013,2021,6,42
+SmartGroup,Support,Series E,Russia,Recession,Office,805,6,149,313,279.76,8,-0.007,2020,10,68
+AISolutions,Product,Private Equity,Saudi Arabia,Recession,Hybrid,8132,19,186,1166.3,1657.71,14,0.005,2023,5,1352
+Dynamic Signal,Infrastructure,Series A,Kenya,Recovery,Hybrid,84,5,152,9.4,15.44,7,0,2021,7,18
+QuantumInnovations,Retail,Series G,India,Recovery,Office,1316,8,83,774.7,382.67,20,0.007,2024,5,142
+ApexCorp,Media,Subsidiary,Brazil,Recession,Office,3986,32,104,565.1,1246.06,14,0.014,2020,3,532
+DataDynamics,Real Estate,Series J,France,Recovery,Remote,1976,14,171,2163.4,452.49,10,-0.003,2021,8,184
+Everquote,Education,Series E,New Zealand,Downturn,Hybrid,552,7,9,274.8,134.89,13,-0.037,2022,8,136
+Bryter,Education,Series C,Bulgaria,Growth,Remote,194,7,206,68.3,42.22,11,-0.079,2021,9,28
+CloudLabs,Sales,Series B,Ukraine,Recession,Office,146,4,114,35.2,45.74,13,-0.045,2023,9,51
+DigitalLabs,Infrastructure,Seed,Pakistan,Downturn,Remote,25,2,106,2.3,3.68,13,-0.029,2022,6,3
+DataInc,Energy,Subsidiary,Romania,Recovery,Remote,3102,32,50,333.3,831.34,7,-0.023,2021,6,428
+TechDynamics,Real Estate,Series F,Peru,Downturn,Hybrid,1073,15,121,507.9,423.13,7,-0.064,2022,5,162
+DigitalInnovations,Infrastructure,Post-IPO,Hungary,Recovery,Office,6041,45,34,3197.5,1460.13,11,0.021,2021,7,1212
+GlobalInc,Energy,Series J,Estonia,Downturn,Office,2228,15,213,1989.4,659.69,12,0.046,2022,7,511
+UserTesting,Other,Series A,Poland,Stable,Hybrid,71,2,112,10.1,20.14,14,0.001,2022,3,24
+QuantumVentures,Real Estate,Series B,Norway,Downturn,Hybrid,153,7,77,37.2,38.4,8,0.036,2022,4,37
+NexusVentures,Logistics,Seed,Philippines,Recovery,Hybrid,34,2,137,3.8,13.21,13,-0.013,2021,7,3
+GlobalDynamics,Hardware,Post-IPO,Nigeria,Recession,Remote,2733,36,0,1099.3,534.05,14,-0.003,2020,8,334
+QuantumGroup,Food,Series C,Norway,Recovery,Remote,395,5,77,92.1,88.53,14,-0.018,2021,1,65
+Career Karma,Transportation,Series J,Luxembourg,Downturn,Remote,3060,22,130,1528.1,896.93,18,0.008,2022,5,501
+DigitalGroup,AI,Series G,Belgium,Stable,Remote,1382,15,79,721.8,485.21,16,-0.067,2022,3,395
+SmartInnovations,Marketing,Series D,Lithuania,Recovery,Remote,461,8,226,163,133.04,13,-0.046,2021,4,64
+NuoDB,Hardware,Series C,Ireland,Recession,Remote,286,4,64,54.2,77.7,9,-0.02,2020,12,34
+Viber,Infrastructure,Post-IPO,Netherlands,Recovery,Remote,8618,12,222,1324.8,2603.97,12,-0.007,2021,6,1538
+QuantumInnovations,Security,Series H,Canada,Recovery,Office,1563,12,230,1427.1,555.93,18,-0.053,2024,3,323
+DataInnovations,Infrastructure,Series I,Ukraine,Downturn,Hybrid,2223,12,114,1597.4,858.66,11,-0.044,2022,5,838
+DataGroup,Sales,Series B,Kenya,Recession,Remote,129,6,152,18.5,42.1,14,-0.012,2020,5,24
+DigitalSolutions,Manufacturing,Post-IPO,Austria,Downturn,Hybrid,8804,27,122,3299.8,2967.32,13,-0.04,2022,10,1395
+Omuni,Retail,Series G,Vietnam,Stable,Office,1338,9,91,496.4,444.83,12,0.004,2023,12,330
+DigitalCorp,Retail,Series B,Romania,Stable,Hybrid,171,5,33,29.2,34.7,15,0.027,2024,2,35
+AISolutions,Finance,Series C,Luxembourg,Recession,Office,241,8,130,79.7,76.26,15,-0.062,2020,7,65
+NexusInc,Infrastructure,Series J,Bulgaria,Stable,Hybrid,2438,17,206,2189.9,636.78,16,0.039,2022,3,649
+ApexDynamics,Marketing,Series A,Spain,Downturn,Hybrid,118,2,132,8.1,52.57,12,-0.017,2022,9,28
+GlobalLabs,Food,Subsidiary,Finland,Recovery,Hybrid,2593,1,70,380.1,1189.64,8,0.059,2021,1,185
+GlobalSolutions,Hardware,Private Equity,France,Stable,Office,4715,37,171,1183.1,990.5,10,0.053,2023,10,609
+Otovo,Logistics,Series J,Chile,Downturn,Hybrid,2554,21,197,1623.1,515.3,12,0.061,2022,4,364
+NexusTechnologies,Security,Series I,Poland,Recession,Office,2557,17,228,1312.3,595.09,14,0.009,2020,4,778
+NexusGroup,Marketing,Series I,Brazil,Downturn,Hybrid,2320,18,198,1221.2,818.3,18,-0.002,2022,8,453
+QuantumTechnologies,Retail,Series F,Uruguay,Recession,Hybrid,1274,12,147,350.2,352.74,16,0.008,2020,7,200
+Pivo,Legal,Series B,Hungary,Downturn,Hybrid,169,7,34,28.6,28.81,16,0.032,2022,10,48
+AISystems,Support,Series E,Seychelles,Downturn,Office,771,13,163,309.5,234.7,20,0.054,2022,8,129
+AirMap,Aerospace,Series D,Canada,Recession,Office,591,10,223,101.3,97.3,14,-0.008,2020,8,127
+CloudCorp,Consumer,Series G,Denmark,Downturn,Hybrid,1366,15,53,804.3,359.49,15,0.02,2022,9,157
+DigitalInc,AI,Series B,Senegal,Recovery,Hybrid,205,5,57,26.1,94.66,12,-0.003,2024,8,34
+DataInc,Legal,Series I,South Korea,Downturn,Office,2634,19,202,1490.7,911.65,16,0.044,2022,7,645
+NexusLabs,Travel,Series G,United States,Recession,Office,1571,9,21,633.3,580.18,6,-0.058,2023,4,174
+Daylight,Media,Series D,United Arab Emirates,Downturn,Remote,489,9,63,150,160.51,11,-0.039,2022,8,131
+TechVentures,Crypto,Series I,Ukraine,Downturn,Hybrid,1751,17,114,1299.3,423.66,10,0.019,2022,4,323
+Vroom,HR,Series F,Hungary,Recovery,Hybrid,1096,14,34,472.2,300.29,9,0.03,2024,4,132
+ApexInnovations,Real Estate,Series G,Seychelles,Recession,Office,1477,13,163,902.4,199.84,12,-0.049,2023,6,313
+DigitalInc,Marketing,Series E,Philippines,Downturn,Hybrid,995,8,137,277.9,319.57,14,-0.004,2022,4,222
+GlobalCorp,Real Estate,Series G,Hong Kong,Stable,Hybrid,1431,14,92,856.1,410.15,13,-0.016,2023,11,519
+Citizen,Travel,Series E,Poland,Downturn,Hybrid,982,6,112,276.8,291.06,13,0.027,2022,6,92
+ApexTechnologies,Legal,Series B,Spain,Recession,Hybrid,164,6,13,25.8,23.61,8,0.002,2020,4,29
+TechInnovations,Construction,Seed,Indonesia,Downturn,Office,30,2,101,2.9,11.15,12,0.038,2022,12,8
+Beat,Healthcare,Series E,Hungary,Stable,Hybrid,769,10,34,307.5,188.96,16,0.042,2023,12,235
+DigitalGroup,Support,Post-IPO,Russia,Stable,Hybrid,13556,26,149,4036.4,2256.2,13,-0.019,2023,11,1592
+SmartTechnologies,Crypto,Unknown,Uruguay,Downturn,Hybrid,1252,7,147,27.5,409.13,17,0.024,2022,12,199
+NexusTechnologies,Food,Series B,Hungary,Recovery,Remote,223,3,34,17,47.12,13,0.028,2021,3,43
+SmartInc,Travel,Series J,Nigeria,Recession,Office,1740,16,96,1941.1,660.73,19,0.019,2020,7,359
+Consider.co,Real Estate,Seed,Nigeria,Recession,Hybrid,25,1,115,3.8,6.11,9,0.03,2023,3,4
+ApexVentures,Unknown,Unknown,Peru,Recovery,Office,415,12,121,9.8,108.65,10,0.028,2024,4,60
+Crypto.com,Transportation,Unknown,United States,Recession,Hybrid,744,5,117,68.4,220.34,14,-0.005,2020,3,103
+DataLabs,Transportation,Subsidiary,Colombia,Stable,Hybrid,6093,7,24,851.6,939.78,8,-0.001,2023,11,627
+TechInc,Transportation,Series H,Sweden,Recession,Office,1907,19,80,760,284.3,10,0.006,2023,6,681
+GlobalVentures,Media,Acquired,India,Recovery,Remote,1665,18,172,715.1,648.28,16,0.034,2021,5,191
+SmartVentures,Healthcare,Private Equity,United Arab Emirates,Stable,Office,7208,28,63,802.7,1301.36,13,0.057,2023,12,1687
+AITechnologies,Manufacturing,Series B,Belgium,Growth,Remote,266,7,32,16.5,43.89,13,-0.018,2021,9,76
+GlobalVentures,AI,Series H,Sweden,Recovery,Remote,1821,15,134,1292.7,603.17,20,-0.054,2024,5,293
+SmartCorp,Sales,Subsidiary,Nigeria,Downturn,Remote,3687,45,96,777.9,1325.52,15,-0.011,2022,9,836
+Divergent 3D,Transportation,Seed,Seychelles,Recovery,Office,20,2,163,3.3,6.51,10,0.008,2024,4,7
+Sayurbox,Travel,Series I,Romania,Downturn,Hybrid,1570,18,50,1915.5,216.62,19,0.057,2022,9,289
+SmartVentures,Retail,Series A,Colombia,Recovery,Remote,114,2,24,8.4,30.45,15,0.001,2021,4,31
+QuantumGroup,Logistics,Series A,Argentina,Recovery,Hybrid,132,4,35,8.9,31.89,7,0.007,2021,5,23
+DigitalTechnologies,Fitness,Series F,Uruguay,Recovery,Office,1113,15,147,469.2,205.75,16,-0.045,2024,10,195
+SmartTechnologies,Support,Series J,India,Recession,Hybrid,1849,15,45,2267.9,604.15,21,0.033,2023,9,307
+Candor Technology,Aerospace,Series B,Greece,Growth,Remote,266,6,7,39.1,80.81,15,0.007,2021,9,54
+Healthy.io,Legal,Private Equity,Cayman Islands,Stable,Hybrid,6808,14,40,821.4,1772.26,11,0.061,2023,10,1365
+MakerBot,Fitness,Series F,Senegal,Recession,Office,952,8,57,257.2,254.21,10,-0.002,2020,6,126
+Guideline,Unknown,Post-IPO,Malaysia,Recession,Office,7114,46,113,2454.6,1781.99,9,-0.034,2020,8,772
+ApexLabs,Unknown,Series A,South Africa,Recovery,Remote,126,3,39,10.3,32.08,17,-0.059,2024,8,26
+GlobalSolutions,HR,Series F,Poland,Recovery,Remote,920,13,125,426,405.97,10,-0.022,2024,6,113
+Sana,Transportation,Acquired,United States,Recession,Hybrid,3306,6,53,524.6,536.76,12,0.034,2020,7,843
+Biofourmis,Food,Series H,Israel,Recovery,Hybrid,1965,18,237,1181.4,537.34,13,0.088,2021,5,226
+Akili Labs,Manufacturing,Series H,Malaysia,Recession,Hybrid,1797,12,113,722.1,470.41,16,-0.069,2023,8,386
+Envoy,Sales,Series E,Mexico,Recovery,Hybrid,865,6,82,307.3,218.01,6,-0.005,2024,4,150
+GlobalCorp,Healthcare,Unknown,Peru,Recession,Office,651,5,121,78.4,136.39,7,0.053,2020,5,104
+SmartGroup,Education,Acquired,South Africa,Recession,Hybrid,2946,16,39,335.8,1152.27,17,-0.072,2023,6,333
+Transmit Security,Food,Private Equity,Australia,Recession,Hybrid,6031,30,29,925.1,1488.45,13,0.046,2020,12,827
+PayU,Healthcare,Series D,Ukraine,Recession,Office,617,5,114,145.2,118.52,12,0.035,2020,12,86
+CloudInc,Energy,Series E,Hong Kong,Recession,Hybrid,795,7,92,290.2,152.66,12,-0.02,2023,4,89
+TikTok India,Energy,Series H,Brazil,Recession,Remote,1597,10,104,703.3,479.04,7,-0.014,2020,8,306
+TechCorp,Legal,Series B,Finland,Recovery,Hybrid,187,6,90,26.9,48.37,17,-0.041,2024,12,29
+Zest AI,Manufacturing,Private Equity,Czech Republic,Growth,Remote,4628,23,178,1836.6,1302.01,9,0.003,2021,12,1581
+SmartDynamics,Retail,Subsidiary,United States,Recovery,Office,6020,4,52,748.1,1152.37,6,0.028,2021,7,919
+TechSolutions,Real Estate,Series E,United States,Downturn,Remote,954,12,148,300.3,182.84,12,-0.031,2022,4,123
+CrowdRiff,Other,Series E,Ireland,Recession,Hybrid,825,11,54,252.2,357.41,19,-0.035,2023,7,174
+ApexLabs,Legal,Series I,Lithuania,Recession,Hybrid,2710,21,226,1601.2,964.71,13,-0.014,2023,7,443
+QuantumTechnologies,Healthcare,Post-IPO,Myanmar,Recession,Hybrid,6900,27,236,3093.3,2073.54,15,0.052,2023,7,851
+DigitalSystems,Marketing,Series D,Ghana,Recession,Remote,620,6,1,155.7,234.86,16,-0.046,2023,5,50
+Color Health,Logistics,Series G,Egypt,Stable,Office,1459,17,37,655.6,479.29,9,0.019,2023,11,411
+DataCorp,Unknown,Series J,Belgium,Recession,Remote,2494,13,79,2063.3,554.62,20,-0.031,2023,6,187
+QuantumDynamics,Education,Private Equity,United Arab Emirates,Recovery,Remote,5065,27,63,659.3,1068.35,14,-0.019,2021,8,1126
+ApexInnovations,Food,Series B,Uruguay,Recovery,Office,139,4,147,38.1,56.13,9,0.062,2024,7,19
+SmartGroup,Hardware,Series D,Belgium,Stable,Remote,569,8,32,145.7,153.95,11,0.055,2023,12,168
+AIGroup,Fitness,Series F,Greece,Recovery,Hybrid,981,13,7,546.4,193.54,12,-0.048,2024,10,95
+Increff,Aerospace,Unknown,Colombia,Recession,Office,1061,4,24,39,202.27,17,-0.022,2020,7,159
+TechInnovations,Healthcare,Series C,Ghana,Recession,Office,217,4,1,75.2,50.99,12,0.06,2020,6,55
+TechCorp,Data,Series G,India,Recovery,Remote,1925,13,172,632.8,243.05,16,0.032,2021,3,554
+Momentive,AI,Series B,Saudi Arabia,Recovery,Hybrid,215,5,186,29,63.46,12,-0.021,2021,3,59
+Insider Intelligence,Support,Acquired,Vietnam,Recovery,Hybrid,2569,8,91,470.7,777.67,11,0.051,2021,8,735
+AIInc,Manufacturing,Post-IPO,Ukraine,Downturn,Hybrid,11998,21,114,2150.9,4523.38,10,0.012,2022,12,3266
+MaxMilhas,Crypto,Unknown,Ghana,Recession,Office,883,8,1,12.8,189.5,10,-0.042,2020,12,146
+ALI Technologies,Crypto,Seed,Peru,Recovery,Hybrid,38,2,121,3.2,12.42,12,-0.092,2021,1,9
+GlobalInnovations,HR,Series J,Netherlands,Recovery,Office,2401,19,216,1732.3,640.81,7,0.021,2021,5,215
+Avaya,Unknown,Unknown,Italy,Recession,Office,1598,9,142,42.7,513.01,9,-0.017,2020,7,415
+NexusSolutions,Data,Seed,Romania,Recession,Hybrid,27,2,33,3.2,11.1,9,0.028,2020,5,8
+iSpecimen,Transportation,Series C,Peru,Recovery,Hybrid,277,4,121,57.3,77.63,14,0.053,2024,10,43
+DigitalLabs,Product,Series A,Peru,Recovery,Remote,94,4,121,11.2,28.23,17,0.015,2021,6,15
+OSlash,Fitness,Series J,Thailand,Recession,Hybrid,2468,19,12,1671.9,400.26,16,-0.001,2023,4,252
+HumanForest,Logistics,Series C,Malaysia,Recovery,Office,369,6,113,69.4,86.09,18,0.017,2024,8,48
+Wayflyer,Logistics,Seed,Saudi Arabia,Growth,Hybrid,29,3,186,2.6,7.98,15,-0.079,2021,9,7
+NexusGroup,Other,Series H,India,Downturn,Remote,1527,13,98,1146.2,503.85,13,-0.033,2022,8,225
+CloudInc,Retail,Series I,South Africa,Stable,Office,2562,14,39,1665.5,1073.45,9,0.015,2024,2,462
+Branch Metrics,Travel,Seed,Mexico,Recession,Hybrid,23,2,140,4.9,7.2,19,0.037,2023,9,3
+LegalZoom,Support,Series C,Hong Kong,Recovery,Hybrid,322,8,92,69,81.33,11,0.06,2024,4,53
+DataLabs,AI,Series J,Ireland,Recession,Hybrid,2292,18,64,1812.8,416.95,11,-0.005,2020,12,433
+GlobalDynamics,Support,Private Equity,Egypt,Recovery,Hybrid,8043,34,37,1177.7,2254.5,10,0.003,2021,5,1967
+QuantumCorp,Crypto,Subsidiary,Argentina,Downturn,Hybrid,1414,40,35,572.4,332.59,8,-0.069,2022,8,137
+QuantumVentures,Support,Private Equity,Nigeria,Stable,Office,6406,30,0,1303.9,2050.36,15,-0.018,2022,3,457
+SmartDynamics,Fitness,Series C,Bahrain,Recession,Hybrid,337,5,135,62.3,60.78,8,-0.055,2020,9,59
+QuantumInc,Crypto,Series J,Uruguay,Downturn,Hybrid,2766,21,147,1797,1093.75,14,-0.12,2022,9,973
+Guideline,Infrastructure,Seed,France,Recovery,Office,25,2,171,3.7,3.45,12,-0.017,2024,5,3
+GlobalVentures,Aerospace,Series C,Indonesia,Recovery,Office,385,9,101,94.5,49.8,18,-0.011,2021,7,53
+Nearmap,HR,Series G,Israel,Recession,Hybrid,1290,16,103,911.2,493.7,13,0,2020,6,125
+NexusCorp,AI,Series D,Switzerland,Recession,Office,366,9,78,115.2,104.98,15,0.053,2023,8,81
+NexusLabs,Healthcare,Acquired,Argentina,Recovery,Hybrid,2357,15,35,721.9,631.32,18,0.079,2024,5,647
+SmartSystems,Support,Series D,Peru,Recession,Office,659,5,121,142.1,174.69,11,0.022,2023,5,115
+AIDynamics,Legal,Series D,Australia,Downturn,Office,446,9,29,123,143.08,17,-0.012,2022,5,61
+Katerra,Unknown,Series E,United Arab Emirates,Stable,Hybrid,848,12,63,253.6,303.28,15,-0.067,2024,1,156
+DigitalGroup,Security,Series G,United States,Downturn,Hybrid,893,11,158,874.7,295.95,10,0.008,2022,6,196
+AIInc,Education,Series D,United States,Recession,Hybrid,343,10,62,150.5,78.42,13,-0.002,2023,3,47
+TechTechnologies,Recruiting,Series J,Poland,Recovery,Remote,2365,11,228,1820.4,577.2,14,0.053,2021,3,534
+PickYourTrail,Hardware,Unknown,Ghana,Recession,Office,1734,13,1,55.6,433.19,12,0.02,2020,6,357
+Curbio,Hardware,Acquired,Malaysia,Downturn,Office,1188,20,113,683.5,394.39,9,-0.041,2022,4,218
+ApexCorp,Healthcare,Series G,Portugal,Recession,Hybrid,1165,10,123,904.3,513.44,11,0.082,2023,7,161
+NexusGroup,Finance,Series D,Spain,Recession,Hybrid,680,10,13,131.2,324.29,15,-0.012,2020,9,141
+QuantumSolutions,HR,Series C,Peru,Recession,Office,276,5,121,85.9,88.72,12,0.007,2020,9,37
+Earnix,Unknown,Series A,Chile,Downturn,Office,87,4,197,11.9,22.22,16,0.004,2022,8,26
+Booking.com,Education,Series E,Netherlands,Stable,Remote,896,9,5,324.6,195.79,14,0.05,2022,3,173
+Hotmart,Retail,Series C,Luxembourg,Downturn,Remote,323,4,130,71.8,108.01,16,0.028,2022,10,52
+ApexLabs,Marketing,Series I,Colombia,Recovery,Remote,1930,15,24,1247.3,607.16,18,-0.07,2021,8,230
+QuantumSystems,AI,Series A,Saudi Arabia,Recession,Office,92,5,186,6.7,26.41,9,0.007,2020,7,14
+DigitalSolutions,Consumer,Series F,Seychelles,Recovery,Hybrid,934,11,224,472.1,303.45,8,-0.046,2024,7,135
+AIVentures,Travel,Series F,Mexico,Stable,Remote,1021,9,82,434.1,385.7,17,0.031,2023,11,160
+Palmetto Clean Technology,Construction,Series C,United States,Recovery,Hybrid,276,8,156,57.9,54.21,14,-0.075,2024,5,93
+TechSystems,Food,Series I,Greece,Downturn,Office,2766,11,7,1267.9,956.97,12,0.017,2022,5,445
+SWVL,Real Estate,Subsidiary,Argentina,Recovery,Remote,2349,31,35,1224,816.06,12,-0.081,2024,3,432
+QuantumLabs,Security,Private Equity,Romania,Recovery,Office,4671,29,50,1580.8,1156.69,20,-0.048,2024,8,748
+CloudVentures,Aerospace,Series F,Pakistan,Downturn,Remote,914,10,106,448,150.05,15,0.021,2022,7,54
+Trendsales,Hardware,Series A,Estonia,Recovery,Hybrid,87,5,213,10.3,18.78,11,-0.082,2021,3,10
+Fast,Food,Post-IPO,Poland,Recession,Office,6755,40,84,2974.6,2300.47,10,0.057,2020,11,1608
+PartnerStack,Support,Series D,Philippines,Recovery,Office,509,5,137,121.2,145.68,9,-0.062,2024,9,139
+AIInc,Education,Series I,Ukraine,Recovery,Hybrid,2457,17,114,1316.4,979.15,18,-0.046,2024,7,896
+CloudLabs,Infrastructure,Series H,France,Recovery,Hybrid,2162,17,219,987.5,711.47,16,-0.032,2024,7,501
+Wallbox,Recruiting,Series F,Czech Republic,Downturn,Office,763,15,178,273.7,173.66,16,0.004,2022,8,100
+GlobalVentures,Legal,Acquired,Netherlands,Recession,Hybrid,820,4,5,309.9,143.35,12,0.014,2020,7,140
+Insider,Marketing,Seed,Seychelles,Stable,Hybrid,23,3,163,3.3,7.75,20,-0.009,2023,11,4
+GlobalSystems,Real Estate,Unknown,Norway,Recession,Hybrid,1417,19,220,50.1,518.73,17,-0.054,2023,6,326
+DigitalInc,Retail,Series E,Argentina,Recovery,Hybrid,736,13,35,202,216.07,10,-0.05,2024,9,200
+GlobalLabs,Construction,Acquired,United Arab Emirates,Recovery,Remote,3346,21,63,499.4,878.32,22,0.002,2021,3,950
+Roblox China,Sales,Series G,Canada,Downturn,Hybrid,1733,15,38,494.4,601.5,11,-0.079,2022,9,305
+ApexVentures,Education,Series A,Ghana,Recession,Office,120,4,1,10,28.66,11,-0.037,2020,4,26
