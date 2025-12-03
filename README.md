@@ -11,7 +11,7 @@ DEPLOYMENT PROCEDURES:
 	i) Layoff Dataset
        ii) My .ipynb File
       iii) My app.py File (Layoff.py)
-       iv) After opening the project folder, open command prompt and activate the anaconda platform and RUN "streamlit run Layoff.py".
+       iv) After opening the project folder, go to the LAYOFF PREDICTION FINAL.IPYNB and run all the cells in either Jupyter notebook or Google collab and open command prompt and activate the anaconda platform and RUN "streamlit run Layoff.py".
 	v) The Above step will deploy the Model in the localhost.
 
 2 => Additionally i have also added a jpg naming "background" which can be fitted as my UI model's background. 
