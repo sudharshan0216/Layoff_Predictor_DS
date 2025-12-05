@@ -4,7 +4,6 @@ Built a layoff prediction model using machine learning techniques, including fea
 EMPLOYEE LAYOFF PREDICTION MODEL README FILE ~ SUDHARSHAN.S
 
 **MODEL SUMMARY:**
-
 	My project "Employee Layoff Prediction Model" uses a LightGBM Regressor to predict the expected number of employee layoffs based on company, financial, and market features. The model is built using 15 engineered features, including company size, revenue, burn rate, industry growth, and market conditions, with MinMax scaling and Label Encoding applied during preprocessing. A custom Streamlit interface allows users to input company details and get real-time predictions along with risk classifications (Low/Medium/High). The app also provides analytics, feature explanations, and interactive visualizations of layoff trends. This system serves as a data-driven forecasting tool for workforce risk assessment.
 
 **DEPLOYMENT PROCEDURES:**
