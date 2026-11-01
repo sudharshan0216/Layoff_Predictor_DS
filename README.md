@@ -10,9 +10,9 @@ EMPLOYEE LAYOFF PREDICTION MODEL README FILE ~ SUDHARSHAN.S
 
 1 => In the current folder I have uploaded the required files to deploy my model that is 
 	i) Layoff Dataset
-       ii) My .ipynb File
-      iii) My app.py File (Layoff.py)
-       iv) After opening the project folder, go to the LAYOFF PREDICTION FINAL.IPYNB and run all the cells in either Jupyter notebook or Google collab and open command prompt and activate the anaconda platform and RUN "streamlit run Layoff.py".
+    ii) My .ipynb File
+    iii) My app.py File (Layoff.py)
+    iv) After opening the project folder, go to the LAYOFF PREDICTION FINAL.IPYNB and run all the cells in either Jupyter notebook or Google collab and open command prompt and activate the anaconda platform and RUN "streamlit run Layoff.py".
 	v) The Above step will deploy the Model in the localhost.
 
 2 => Additionally i have also added a jpg naming "background" which can be fitted as my UI model's background. 
@@ -20,8 +20,8 @@ EMPLOYEE LAYOFF PREDICTION MODEL README FILE ~ SUDHARSHAN.S
   => If in case, the current bg image is not to your liking i have also added a folder named "Bg Sample Img" in which i have searched and stored a variety of background images that would suit nicely for my UI.
   => Setting the bg image to your liking is really simple,
 	i) Just copy the filename of the bg image you choose and paste it on the "Custom Image's" input tab and also after pasting the filename you should also add ".file extension" of the image you choose.
-       ii) In simple if your selected image is a png file the input tab should have "filename.png", for example "layoff_3.png".
-      iii) By following the above steps you can change the bg of the UI to your liking.
+    ii) In simple if your selected image is a png file the input tab should have "filename.png", for example "layoff_3.png".
+    iii) By following the above steps you can change the bg of the UI to your liking.
 	
 
 3 => Next is the Prediction Part. 
